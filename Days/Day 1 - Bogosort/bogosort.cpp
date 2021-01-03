@@ -2,7 +2,6 @@
 #include <string>
 #include <cstdlib>
 #include <time.h>
-#include "../../Utility/utility.h"
 #include "../../Algorithms/algorithms.h"
 
 template <class T, size_t size>
@@ -12,6 +11,11 @@ std::string Algo::formatArray(const T (&array)[size]) {
         result += std::to_string(array[i]) + " ";
     }
     return result;
+}
+
+template <class T>
+int Algo::randRange(T min, T max) { // Excludes maximum value
+    return rand() % (max - min) + min;
 }
 
 template <class T>
@@ -29,7 +33,7 @@ template <class T>
 void Algo::shuffle(T* array, int numElements) { // Alternatively: Use std::shuffle
     for (int i = 0; i <= numElements-2; i++)
     {
-        int index = Util::randRange(i, numElements);
+        int index = randRange(i, numElements);
         int temp = array[index];
         array[index] = array[i];
         array[i] = temp;

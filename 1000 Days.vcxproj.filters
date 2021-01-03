@@ -18,14 +18,8 @@
     <ClCompile Include="Days\Day 1 - Bogosort\bogosort.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Utility\utility.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Utility\utility.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="Algorithms\algorithms.h">
       <Filter>Header Files</Filter>
     </ClInclude>
