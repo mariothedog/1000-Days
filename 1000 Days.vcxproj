@@ -20,9 +20,12 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Days\Day 1\bogosort.cpp" />
+    <ClCompile Include="Days\Day 0 - Test\day_test.cpp" />
+    <ClCompile Include="Main\main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Algorithms\algorithms.h" />
+    <ClInclude Include="Main\drivers.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

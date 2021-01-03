@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 #include <time.h>
+#include "../../Main/drivers.h"
 #include "../../Algorithms/algorithms.h"
 
 template <class T, size_t size>
@@ -49,7 +50,7 @@ int Algo::bogosort(T* array, int numElements) {
     return numShuffleAttempts;
 }
 
-int main() {
+int Driver::day1() {
     srand((unsigned int)time(NULL));
 
     int numbers[] = { 8, 1, 7, 2, 4 };
