@@ -15,7 +15,7 @@ std::string Algo::formatArray(const T (&array)[size]) {
 }
 
 template <class T>
-bool Algo::isSorted(T* array, int numElements) {
+bool Algo::isSorted(T* array, int numElements) { // Alternatively: Use std::is_sorted
     for (int i = 0; i < numElements-1; i++) {
         if (array[i] > array[i + 1]) {
             return false;
@@ -26,7 +26,7 @@ bool Algo::isSorted(T* array, int numElements) {
 }
 
 template <class T>
-void Algo::shuffle(T* array, int numElements) {
+void Algo::shuffle(T* array, int numElements) { // Alternatively: Use std::shuffle
     for (int i = 0; i <= numElements-2; i++)
     {
         int index = Util::randRange(i, numElements);
