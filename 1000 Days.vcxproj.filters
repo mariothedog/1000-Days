@@ -13,27 +13,21 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="Source Files\Days">
-      <UniqueIdentifier>{a851442b-0b70-4f57-961b-bf0fcecc74fe}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\Days\Day 1 - Bogosort">
-      <UniqueIdentifier>{1acf6298-4ef7-4309-8d0d-f2806fc3bd17}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\Utility">
-      <UniqueIdentifier>{e8f865a5-da4a-46c2-884b-b2ad4876ffe7}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Days\Day 1 - Bogosort\bogosort.cpp">
-      <Filter>Source Files\Days\Day 1 - Bogosort</Filter>
+      <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Utility\utility.cpp">
-      <Filter>Source Files\Utility</Filter>
+      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Utility\utility.h">
-      <Filter>Source Files\Utility</Filter>
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Algorithms\algorithms.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

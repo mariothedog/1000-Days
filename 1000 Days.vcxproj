@@ -23,6 +23,7 @@
     <ClCompile Include="Utility\utility.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Algorithms\algorithms.h" />
     <ClInclude Include="Utility\utility.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
