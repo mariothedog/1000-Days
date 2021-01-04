@@ -24,7 +24,6 @@
     <ClCompile Include="Main\main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Algorithms\algorithms.h" />
     <ClInclude Include="Main\drivers.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
