@@ -15,13 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Days\Day 1\bogosort.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Main\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Days\Day 0 - Test\day_test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Days\Day 2\bogosort_vector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Days\Day 1\bogosort_array.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

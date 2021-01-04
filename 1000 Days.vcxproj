@@ -19,8 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Days\Day 1\bogosort.cpp" />
+    <ClCompile Include="Days\Day 1\bogosort_array.cpp" />
     <ClCompile Include="Days\Day 0 - Test\day_test.cpp" />
+    <ClCompile Include="Days\Day 2\bogosort_vector.cpp" />
     <ClCompile Include="Main\main.cpp" />
   </ItemGroup>
   <ItemGroup>

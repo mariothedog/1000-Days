@@ -2,5 +2,5 @@
 #include "drivers.h"
 
 int main() {
-    return Driver::day1();
+    return Driver::day2();
 }
