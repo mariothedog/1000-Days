@@ -13,7 +13,7 @@
 * *Also: Refactored the repo and learned a bit more about references and templates*
 
 **Day 3:** *(Streak: 3 - 4/1/2020)*
-* Javascript
+* JavaScript
 * Worked on my Discord bot - [Mariothebot](https://github.com/mariothedog/Mariothebot)
 * Overhauled the [add-reaction-channel](https://github.com/mariothedog/Mariothebot/blob/master/Commands/Reactions/add-reaction-channel.js) command (took way longer than it should have)
 ![](https://cdn.discordapp.com/attachments/535532221663019028/795854063145058304/add-reaction-channel.png)
