@@ -27,3 +27,10 @@
 ![Commands](https://cdn.discordapp.com/attachments/535532221663019028/796196450920955934/gpio_command.png)
 ![Result of "r!gpio 17 1" command](https://cdn.discordapp.com/attachments/535532221663019028/796197504948895744/gpio_command_on.png)
 ![Result of "r!gpio 17 0" command](https://cdn.discordapp.com/attachments/535532221663019028/796197503749587003/gpio_command_off.png)
+
+**Day 5:** *(Streak: 5 - 6/1/2020)*
+* JavaScript and Python
+* Continued to work on [RPIBot](https://github.com/mariothedog/RPIBot)
+* I made it so the bot can now be deployed on my computer but will make post requests to an HTTP server that is on my RPI
+* The HTTP server was programmed in Python
+* I'll add it to the repo tomorrow morning (it's getting late!)
