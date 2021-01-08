@@ -44,5 +44,6 @@
 * There's still a lot of things that need to be cleaned up which I'll work on tomorrow:
 1. It's impossible to tell what checkbox corresponds to which GPIO pin unless you know beforehand
 2. If one of the GPIO pins is already outputting voltage the website won't tell the user accordingly
-3. The UI is ugly  
+3. The UI is ugly
+* Credit to this [script by Freenove](https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_Raspberry_Pi/blob/master/Code/Python_Code/26.1.1_WebIO/WebIO.py) as it was really helpful with the web server  
 ![RPIBot Website](https://cdn.discordapp.com/attachments/535532221663019028/796919610439106580/day_6.png)
