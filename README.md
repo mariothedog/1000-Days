@@ -34,3 +34,15 @@
 * I made it so the bot can now be deployed on my computer but will make post requests to an HTTP server that is on my RPI
 * The HTTP server was programmed in Python
 * I'll add it to the repo tomorrow morning (it's getting late!)
+
+**Day 6:** *(Streak: 6 - 7/1/2020)*
+* JavaScript, Python, HTML, and a *tiny* bit of CSS
+* Still working on [RPIBot](https://github.com/mariothedog/RPIBot)
+* Most of the work was done on the web server  
+* The website for it is now at least usable
+* When the checkbox is ticked the corresponding GPIO pin will output
+* There's still a lot of things that need to be cleaned up which I'll work on tomorrow:
+1. It's impossible to tell what checkbox corresponds to which GPIO pin unless you know beforehand
+2. If one of the GPIO pins is already outputting voltage the website won't tell the user accordingly
+3. The UI is ugly  
+![RPIBot Website](https://cdn.discordapp.com/attachments/535532221663019028/796919610439106580/day_6.png)
