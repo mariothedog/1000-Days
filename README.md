@@ -47,3 +47,9 @@
 3. The UI is ugly
 * Credit to this [script by Freenove](https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_Raspberry_Pi/blob/master/Code/Python_Code/26.1.1_WebIO/WebIO.py) as it was really helpful with the web server  
 ![RPIBot Website](https://cdn.discordapp.com/attachments/535532221663019028/796919610439106580/day_6.png)
+
+**Day 7:** *(Streak: 7 - 8/1/2020)*
+* HTML and CSS
+* [RPIBot](https://github.com/mariothedog/RPIBot)
+* Checkboxes now have labels (very hacky solution)  
+![RPIBot Website](https://cdn.discordapp.com/attachments/535532221663019028/797290712228036628/day_7.png)
