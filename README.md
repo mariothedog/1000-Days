@@ -58,3 +58,11 @@
 * Decided to take a break from RPIBot by doing some more C++
 * [Codewars 6 Kyu Kata - Unique In Order](https://www.codewars.com/kata/54e6533c92449cc251001667)
 * [Solution](https://www.codewars.com/kata/reviews/5d98f282b1415f0001893334/groups/5ffa5e8df0aa1300019d085f)
+
+**Day 9:** *(Streak: 9 - 10/1/2020)*
+* Python (Tkinter)
+* This was initially for a school project but I wanted to learn a bit more about GUI so I decided to expand on it a bit
+* Note that it is still a work in progress
+* [Source](https://github.com/mariothedog/Basic-Pupil-Database-App/tree/password-entry)  
+![Main Menu](https://cdn.discordapp.com/attachments/535532221663019028/798000288950124573/unknown.png)
+![Login Menu](https://cdn.discordapp.com/attachments/535532221663019028/798000332444532746/unknown.png)
