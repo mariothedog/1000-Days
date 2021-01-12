@@ -63,6 +63,6 @@
 * Python (Tkinter)
 * This was initially for a school project but I wanted to learn a bit more about GUI so I decided to expand on it a bit
 * Note that it is still a work in progress
-* [Source](https://github.com/mariothedog/Basic-Pupil-Database-App/tree/password-entry)  
+* [Source](https://github.com/mariothedog/Basic-Pupil-Database-App)  
 ![Main Menu](https://cdn.discordapp.com/attachments/535532221663019028/798000288950124573/unknown.png)
 ![Login Menu](https://cdn.discordapp.com/attachments/535532221663019028/798000332444532746/unknown.png)
