@@ -71,4 +71,4 @@
 * Python (Tkinter)
 * I finished the pupil database app but it could do with a bit of refactoring
 * [Source](https://github.com/mariothedog/Basic-Pupil-Database-App)  
-![Main Menu](https://cdn.discordapp.com/attachments/535532221663019028/798343476148043776/Pupil_Database_Demo.gif)
+![Demo Gif](https://cdn.discordapp.com/attachments/535532221663019028/798343476148043776/Pupil_Database_Demo.gif)
