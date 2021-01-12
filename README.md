@@ -66,3 +66,9 @@
 * [Source](https://github.com/mariothedog/Basic-Pupil-Database-App)  
 ![Main Menu](https://cdn.discordapp.com/attachments/535532221663019028/798000288950124573/unknown.png)
 ![Login Menu](https://cdn.discordapp.com/attachments/535532221663019028/798000332444532746/unknown.png)
+
+**Day 10:** *(Streak: 10 - 11/1/2020)*
+* Python (Tkinter)
+* I finished the pupil database app but it could do with a bit of refactoring
+* [Source](https://github.com/mariothedog/Basic-Pupil-Database-App)  
+![Main Menu](https://cdn.discordapp.com/attachments/535532221663019028/798343476148043776/Pupil_Database_Demo.gif)
