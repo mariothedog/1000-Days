@@ -72,3 +72,9 @@
 * I finished the pupil database app but it could do with a bit of refactoring
 * [Source](https://github.com/mariothedog/Basic-Pupil-Database-App)  
 ![Demo Gif](https://cdn.discordapp.com/attachments/535532221663019028/798343476148043776/Pupil_Database_Demo.gif)
+
+**Day 11:** *(Streak: 11 - 12/1/2020)*
+* C++
+* This took me way longer than I'd care to admit (just under an hour!)... C++ is truly terrifying
+* [Codwars 6 Kyu Kata - Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83/cpp)  
+* [Solution](https://www.codewars.com/kata/reviews/5dd1a2d1014ee40001077b25/groups/5ffe4da3507d580001220e80)
