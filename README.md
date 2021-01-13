@@ -2,7 +2,7 @@
 ### Details
 The rules are much more relaxed compared to the [original's](https://www.reddit.com/r/ThousandDays/comments/kpkszp/day_11_yes_very_embarassing/):
 * The definition of a day is not strictly defined. If it goes past midnight I won't count it as a different day
-* A day's work will consist of approximately 20 or more minutes of programming
+* A reasonable amount of work must be done for a day to be considered as completed. For example, I can't just edit one line of code
 * Code that I am required to do (i.e. not voluntary) will not be included (e.g. school projects)
 
 ### Days
