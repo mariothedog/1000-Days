@@ -1,5 +1,11 @@
 # 1000 Days
+### Details
+The rules are much more relaxed compared to the [original's](https://www.reddit.com/r/ThousandDays/comments/kpkszp/day_11_yes_very_embarassing/):
+* The definition of a day is not strictly defined. If it goes past midnight I won't count it as a different day
+* A day's work will consist of approximately 20 or more minutes of programming
+* Code that I am required to do (i.e. not voluntary) will not be included (e.g. school projects)
 
+### Days
 **[Day 1:](https://github.com/mariothedog/1000-Days/blob/main/Days/Day%201/bogosort_array.cpp)** *(Streak: 1 - 2/1/2020)*
 * C++
 * [Bogosort algorithm](https://en.wikipedia.org/wiki/Bogosort) using arrays
