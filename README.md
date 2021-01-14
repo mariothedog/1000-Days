@@ -84,3 +84,8 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * This took me way longer than I'd care to admit (just under an hour!)... C++ is truly terrifying
 * [Codwars 6 Kyu Kata - Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83/cpp)  
 * [Solution](https://www.codewars.com/kata/reviews/5dd1a2d1014ee40001077b25/groups/5ffe4da3507d580001220e80)
+
+**Day 12:** *(Streak: 12 - 13/1/2020)*
+* C++
+* [Codwars 6 Kyu Kata - Find the missing term in an Arithmetic Progression](https://www.codewars.com/kata/52de553ebb55d1fca3000371/cpp)  
+* [Solution](https://www.codewars.com/kata/reviews/579fa0eb74cca11be3000056/groups/5fff91dcbd78f400013c4320)
