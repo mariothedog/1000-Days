@@ -89,3 +89,9 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * C++
 * [Codwars 6 Kyu Kata - Find the missing term in an Arithmetic Progression](https://www.codewars.com/kata/52de553ebb55d1fca3000371/cpp)  
 * [Solution](https://www.codewars.com/kata/reviews/579fa0eb74cca11be3000056/groups/5fff91dcbd78f400013c4320)
+
+**Day 13:** *(Streak: 13 - 14/1/2020)*
+* JavaScript
+* I learned a bit about making userscripts using TamperMonkey and made a script that adds a streak counter to [realkana](https://realkana.com)
+* [Source](https://gist.github.com/mariothedog/5602eb23272109c543e99bebe05064b0)  
+![Streak Counter](https://cdn.discordapp.com/attachments/535532221663019028/799419177336963082/Day_13.png)
