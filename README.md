@@ -95,3 +95,8 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * I learned a bit about making userscripts using Tampermonkey and made a script that adds a streak counter to [realkana](https://realkana.com)
 * [Source](https://gist.github.com/mariothedog/5602eb23272109c543e99bebe05064b0)  
 ![Streak Counter](https://cdn.discordapp.com/attachments/535532221663019028/799419177336963082/Day_13.png)
+
+**Day 14:** *(Streak: 14 - 15/1/2020)*
+* C++
+* [Codwars 6 Kyu Kata - Are they the "same"?](https://www.codewars.com/kata/550498447451fbbd7600041c/cpp)  
+* [Solution](https://www.codewars.com/kata/reviews/575e5517569d928432000003/groups/600255aa7dbf000001f9c59f)
