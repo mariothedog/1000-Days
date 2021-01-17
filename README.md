@@ -105,3 +105,8 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * C++
 * [Codwars 6 Kyu Kata - Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1/cpp)  
 * [Solution](https://pastebin.com/6ufa71J0)
+
+**Day 16:** *(Streak: 16 - 17/1/2020)*
+* C++
+* [Codwars 6 Kyu Kata - Playing with digits](https://www.codewars.com/kata/5552101f47fc5178b1000050/cpp)  
+* [Solution](https://www.codewars.com/kata/reviews/57874987d9456ea80500019f/groups/6004b91cfe09c70001f82ee6)
