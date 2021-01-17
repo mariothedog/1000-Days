@@ -100,3 +100,8 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * C++
 * [Codwars 6 Kyu Kata - Are they the "same"?](https://www.codewars.com/kata/550498447451fbbd7600041c/cpp)  
 * [Solution](https://www.codewars.com/kata/reviews/575e5517569d928432000003/groups/600255aa7dbf000001f9c59f)
+
+**Day 15:** *(Streak: 15 - 16/1/2020)*
+* C++
+* [Codwars 6 Kyu Kata - Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1/cpp)  
+* [Solution](https://pastebin.com/6ufa71J0)
