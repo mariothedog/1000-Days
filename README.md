@@ -110,3 +110,9 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * C++
 * [Codwars 6 Kyu Kata - Playing with digits](https://www.codewars.com/kata/5552101f47fc5178b1000050/cpp)  
 * [Solution](https://www.codewars.com/kata/reviews/57874987d9456ea80500019f/groups/6004b91cfe09c70001f82ee6)
+
+**Day 17:** *(Streak: 17 - 18/1/2020)*
+* Python
+* I'm working on a new app that that will log your spent spent on each program every day
+* Currently it's very experimental as I'm still learning about the ctypes module and Windows DLLs
+* [Source](https://github.com/mariothedog/Time-Tracking-App)
