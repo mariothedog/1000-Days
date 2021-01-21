@@ -132,3 +132,14 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * Still not perfect as it logs some background processes like `Microsoft Text Input Application`
 * Now only logs activity once a second so it doesn't eat up CPU
 * [Learnt about cProfile](https://stackoverflow.com/a/582337/8004215) which sounds pretty useful
+*
+**Day 20:** *(Streak: 20 - 21/1/2020)*
+* Python
+* [Working on the time tracking app](https://github.com/mariothedog/Time-Tracking-App/tree/61b9a6529ae301f005009177a18833bdcd4ca07b)
+* Now using atexit to close the log file
+* Log file now uses utf-8 encoding for unicode support
+* Writes process name to the log file as well now (using psutil)
+* Added some more checks so not all windows get logged
+* Background processes like `ApplicationFrameHost.exe`, `TextInputHost.exe`, and `Program Manager` but I'm struggling to find a way to fix that
+* I'm thinking about just make it track the active window since I feel like that makes quite a bit more sense
+* I think it would be cool to have the time you spent on the active window be displayed in the upper right corner of the window/near the icon/title
