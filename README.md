@@ -131,3 +131,4 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * I fixed one of the issues I noticed yesterday (I thought IsIconic meant *not* minimised but now now that it means that it *is* minimized)
 * Still not perfect as it logs some background processes like `Microsoft Text Input Application`
 * Now only logs activity once a second so it doesn't eat up CPU
+* [Learnt about cProfile](https://stackoverflow.com/a/582337/8004215) which sounds pretty useful
