@@ -119,7 +119,7 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 
 **Day 18:** *(Streak: 18 - 19/1/2020)*
 * Python
-* Working on the [time tracking app](https://github.com/mariothedog/Time-Tracking-App/commit/591d2eeca6fed6481e2a4d1fb0a2f161ab706701)
+* Working on the [time tracking app](https://github.com/mariothedog/Time-Tracking-App/tree/591d2eeca6fed6481e2a4d1fb0a2f161ab706701)
 * Now using the win32gui module instead of ctypes as I find that it's much simpler
 * The app now just logs all your open windows to a file
 * There is no pause between each write to the log.txt file so it writes thousands of entries a second
