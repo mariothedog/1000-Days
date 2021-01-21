@@ -127,7 +127,7 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 
 **Day 19:** *(Streak: 19 - 20/1/2020)*
 * Python
-* Working on the time tracking app(https://github.com/mariothedog/Time-Tracking-App/commit/b8c166f44c5f7c46e90f507bc2d2804f73f304d0)
+* Working on the time tracking app(https://github.com/mariothedog/Time-Tracking-App/tree/b8c166f44c5f7c46e90f507bc2d2804f73f304d0)
 * I fixed one of the issues I noticed yesterday (I thought IsIconic meant *not* minimised but now now that it means that it *is* minimized)
 * Still not perfect as it logs some background processes like `Microsoft Text Input Application`
 * Now only logs activity once a second so it doesn't eat up CPU
