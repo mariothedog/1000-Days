@@ -132,7 +132,7 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * Still not perfect as it logs some background processes like `Microsoft Text Input Application`
 * Now only logs activity once a second so it doesn't eat up CPU
 * [Learnt about cProfile](https://stackoverflow.com/a/582337/8004215) which sounds pretty useful
-*
+
 **Day 20:** *(Streak: 20 - 21/1/2020)*
 * Python
 * [Working on the time tracking app](https://github.com/mariothedog/Time-Tracking-App/tree/61b9a6529ae301f005009177a18833bdcd4ca07b)
