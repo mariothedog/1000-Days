@@ -143,3 +143,11 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * Background processes like `ApplicationFrameHost.exe`, `TextInputHost.exe`, and `Program Manager` but I'm struggling to find a way to fix that
 * I'm thinking about just make it track the active window since I feel like that makes quite a bit more sense
 * I think it would be cool to have the time you spent on the active window be displayed in the upper right corner of the window/near the icon/title
+
+**Day 21:** *(Streak: 21 - 22/1/2020)*
+* Python
+* [Working on the time tracking app](https://github.com/mariothedog/Time-Tracking-App/tree/5ad29b012800d5c5d3d6051b18ef991af38af1fb)
+* Added a window (using PyQt5) that times how long you've been on a program for
+* It's not completely finished as I plan on moving the timer to the corner of the window as currently it just stays in the middle of the screen regardless of the window position
+* I'll probably stop working on this after I fix this up as I found a program called [ActivityWatch](https://github.com/ActivityWatch/activitywatch) which pretty much does everything I was planning on doing and a lot more  
+![Day 21](https://cdn.discordapp.com/attachments/535532221663019028/802352547821649960/day_21.png)
