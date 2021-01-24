@@ -151,3 +151,8 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * It's not completely finished as I plan on moving the timer to the corner of the window as currently it just stays in the middle of the screen regardless of the window position
 * I'll probably stop working on this after I fix this up as I found a program called [ActivityWatch](https://github.com/ActivityWatch/activitywatch) which pretty much does everything I was planning on doing and a lot more  
 ![Day 21](https://cdn.discordapp.com/attachments/535532221663019028/802352547821649960/day_21.png)
+
+**Day 22:** *(Streak: 22 - 23/1/2020)*
+* GDScript (Godot)
+* I'm participating in the [BTP Game Jam](https://itch.io/jam/blackthornprod-game-jam-3) with two other teammates
+* The source links and some more information will be added once it has ended (7 days from now)
