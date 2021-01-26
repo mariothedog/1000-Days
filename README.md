@@ -154,6 +154,7 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 
 **Day 22:** *(Streak: 22 - 23/1/2020)*
 **Day 23:** *(Streak: 23 - 24/1/2020)*
+**Day 24:** *(Streak: 24 - 25/1/2020)*
 * GDScript (Godot)
 * I'm participating in the [BTP Game Jam](https://itch.io/jam/blackthornprod-game-jam-3) with two other teammates
 * The source links and some more information will be added once it has ended (7 days from now)
