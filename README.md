@@ -158,6 +158,7 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 **Day 25:** *(Streak: 25 - 26/1/2020)*
 **Day 26:** *(Streak: 26 - 27/1/2020)*
 **Day 27:** *(Streak: 27 - 28/1/2020)*
+**Day 28:** *(Streak: 28 - 29/1/2020)*
 * GDScript (Godot Engine)
 * I'm participating in the week-long [BTP Game Jam](https://itch.io/jam/blackthornprod-game-jam-3) with two other teammates
-* The source links and some more information will be added once it has ended
+* The source links and some more information will be added once it has ended (I'll add them in the morning!)
