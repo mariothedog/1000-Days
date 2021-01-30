@@ -152,13 +152,18 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * I'll probably stop working on this after I fix this up as I found a program called [ActivityWatch](https://github.com/ActivityWatch/activitywatch) which pretty much does everything I was planning on doing and a lot more  
 ![Day 21](https://cdn.discordapp.com/attachments/535532221663019028/802352547821649960/day_21.png)
 
-**Day 22:** *(Streak: 22 - 23/1/2020)*
-**Day 23:** *(Streak: 23 - 24/1/2020)*
-**Day 24:** *(Streak: 24 - 25/1/2020)*
-**Day 25:** *(Streak: 25 - 26/1/2020)*
-**Day 26:** *(Streak: 26 - 27/1/2020)*
-**Day 27:** *(Streak: 27 - 28/1/2020)*
-**Day 28:** *(Streak: 28 - 29/1/2020)*
-* GDScript (Godot Engine)
-* I'm participating in the week-long [BTP Game Jam](https://itch.io/jam/blackthornprod-game-jam-3) with two other teammates
-* The source links and some more information will be added once it has ended (I'll add them in the morning!)
+**Day 22:** *(Streak: 22 - 23/1/2020)*  
+**Day 23:** *(Streak: 23 - 24/1/2020)*  
+**Day 24:** *(Streak: 24 - 25/1/2020)*  
+**Day 25:** *(Streak: 25 - 26/1/2020)*  
+**Day 26:** *(Streak: 26 - 27/1/2020)*  
+**Day 27:** *(Streak: 27 - 28/1/2020)*  
+**Day 28:** *(Streak: 28 - 29/1/2020)*  
+* GDScript (Godot Engine v3.2.3.stable.official)
+* This last week I participated in the [BTP Game Jam](https://itch.io/jam/blackthornprod-game-jam-3) with two other teammates ([Schweini](https://github.com/Schweini07) and [marek](https://github.com/marekmaskarinec))
+* The theme of the game jam was "Less is More"
+* We made a top-down procedurally generated shoot-em-up roguelike called "Life Sacrificer"
+* It was based around the mechanic that sacrificing your lives (which you have 10 of in total) will grant you more upgrades
+* My biggest contribution was the entities so things like player movement, the enemies, and the boss
+* [Source Code](https://github.com/Schweini07/BTP-Game-Jam)
+* [Available on Windows, Mac, Linux, and HTML5 here](https://schweini007.itch.io/life-sacrificer)
