@@ -160,7 +160,7 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 **Day 27:** *(Streak: 27 - 28/1/2020)*  
 **Day 28:** *(Streak: 28 - 29/1/2020)*  
 * GDScript (Godot Engine v3.2.3.stable.official)
-* This last week I participated in the [BTP Game Jam](https://itch.io/jam/blackthornprod-game-jam-3) with two other teammates ([Schweini](https://github.com/Schweini07) and [marek](https://github.com/marekmaskarinec))
+* This week I participated in the [BTP Game Jam](https://itch.io/jam/blackthornprod-game-jam-3) with two other teammates ([Schweini](https://github.com/Schweini07) and [marek](https://github.com/marekmaskarinec))
 * The theme of the game jam was "Less is More"
 * We made a top-down procedurally generated shoot-em-up roguelike called "Life Sacrificer"
 * It was based around the mechanic that sacrificing your lives (which you have 10 of in total) will grant you more upgrades
