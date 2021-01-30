@@ -166,6 +166,6 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * It was based around the mechanic that sacrificing your lives (which you have 10 of in total) will grant you more upgrades
 * My biggest contribution was the entities so things like player movement, the enemies, and the boss
 * It was my first time using pathfinding which was very hard to get right (although I did use Godot's built-in system)
-* I also learnt quite a bit more about git (first time having to use rebase!)
+* I also learnt quite a bit more about git (first time having to use `rebase`!)
 * [Available on Windows, Mac, Linux, and HTML5 here](https://schweini007.itch.io/life-sacrificer)
 * [Source Code](https://github.com/Schweini07/BTP-Game-Jam)
