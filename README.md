@@ -168,7 +168,8 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * It was my first time using pathfinding which was very hard to get right (although I did use Godot's built-in system)
 * I also learnt quite a bit more about git (first time having to use `rebase`!)
 * [Available on Windows, Mac, Linux, and HTML5 here](https://schweini007.itch.io/life-sacrificer)
-* [Source Code](https://github.com/Schweini07/BTP-Game-Jam)
+* [Source Code](https://github.com/Schweini07/BTP-Game-Jam)  
+![Life Sacrificer](https://cdn.discordapp.com/attachments/535532221663019028/805235581411524648/Life_Sacrificer.png)
 
 **Day 29:** *(Streak: 29 - 30/1/2020)*  
 * Python
