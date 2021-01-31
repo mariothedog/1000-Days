@@ -173,6 +173,7 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 **Day 29:** *(Streak: 29 - 30/1/2020)*  
 * Python
 * The [time tracking app](https://github.com/mariothedog/Time-Tracking-App/tree/bbb3e4a7f27af6f74a5405e815e45bec4e8b258d) is now complete (for the foreseeable future)
+* I found another program called [Cold Turkey Blocker](https://getcoldturkey.com/) which while time tracking isn't its main focus, it does allow you see various statistics about websites visited and applications used. It seems to be a bit more stable than ActivityWatch but unfortunately it's not open source
 * I used [auto-py-to-exe](https://pypi.org/project/auto-py-to-exe/) to build the app
 * [Download it here](https://github.com/mariothedog/Time-Tracking-App/releases/tag/v1.0) (most likely only works on Windows)
 ![Time Tracking App](https://cdn.discordapp.com/attachments/535532221663019028/805231820323946496/Time_Tracking_App.gif)
