@@ -178,3 +178,10 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * I used [auto-py-to-exe](https://pypi.org/project/auto-py-to-exe/) to build the app
 * [Download it here](https://github.com/mariothedog/Time-Tracking-App/releases/tag/v1.0) (most likely only works on Windows)  
 ![Time Tracking App](https://cdn.discordapp.com/attachments/535532221663019028/805231820323946496/Time_Tracking_App.gif)
+
+**Day 30:** *(Streak: 30 - 31/1/2020)*  
+* Python, JavaScript, HTML, and CSS
+* Back to working on [RPIBot](https://github.com/mariothedog/RPIBot)
+* It took me a while but I managed to get git working on my RPI
+* I also refactored the web server's HTML a bit but there is no visual difference
+* I'm [trying to store the JavaScript in an external file](https://github.com/mariothedog/RPIBot/tree/35653d69dba9ab684e08abfd53676854d1e75da5) but it's not going well
