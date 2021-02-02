@@ -194,3 +194,9 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * I'm now using Flask for the web server which allowed me to use an external file for both the JavaScript and the css
 * I'm now also using jQuery (AJAX) for making post requests from the web page back to the Flask server
 * The bot's `toggle` command now actually does what its name implies. When you use it you don't have to specify a write value. If the pin is already on, it will turn off, and vice versa
+
+**Day 32:** *(Streak: 32 - 2/2/2020)*  
+* JavaScript, HTML, and CSS
+* [RPIBot](https://github.com/mariothedog/RPIBot/commit/48ea284f9af366409c90faaa67bd9cb0082c9f61)
+* The position of the checkboxes is no longer hardcoded and now uses a [flexbox](https://www.w3schools.com/css/css3_flexbox.asp) and `margin-right` instead
+* Clicking the text now also toggles the checkbox as well as just clicking the checkbox directly (using a `label` tag)
