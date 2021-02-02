@@ -190,7 +190,7 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * JavaScript, Python, HTML
 * [RPIBot](https://github.com/mariothedog/RPIBot/tree/1655d61cfea21bc4e91a158ded8089e3d25b634f)
 * One month done!
-* I made a lot of progress todat
+* I made a lot of progress today
 * I'm now using Flask for the web server which allowed me to use an external file for both the JavaScript and the css
 * I'm now also using jQuery (AJAX) for making post requests from the web page back to the Flask server
 * The bot's `toggle` command now actually does what its name implies. When you use it you don't have to specify a write value. If the pin is already on, it will turn off, and vice versa
