@@ -185,3 +185,12 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * It took me a while but I managed to get git working on my RPI
 * I also refactored the web server's HTML a bit but there is no visual difference
 * I'm [trying to store the JavaScript in an external file](https://github.com/mariothedog/RPIBot/tree/35653d69dba9ab684e08abfd53676854d1e75da5) but it's not going well
+
+**Day 31:** *(Streak: 31 - 1/2/2020)*  
+* Python, JavaScript, HTML
+* [RPIBot](https://github.com/mariothedog/RPIBot/tree/1655d61cfea21bc4e91a158ded8089e3d25b634f)
+* One month done!
+* I made a lot of progress todat
+* I'm now using Flask for the web server which allowed me to use an external file for both the JavaScript and the css
+* I'm now also using jQuery (AJAX) for making post requests from the web page back to the Flask server
+* The bot's `toggle` command now actually does what its name implies. When you use it you don't have to specify a write value. If the pin is already on, it will turn off, and vice versa
