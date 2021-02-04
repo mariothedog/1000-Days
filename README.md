@@ -207,3 +207,13 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * I haven't finished it yet as my solution isn't efficient enough
 * [Codewars 5 Kyu Kata - Gap in Primes](https://www.codewars.com/kata/561e9c843a2ef5a40c0000a4/python)  
 * [Solution](https://www.codewars.com/kata/reviews/561ea274e41ebb191e00001c/groups/601bf11dd02c870001b817d4)
+
+**Day 34:** *(Streak: 34 - 4/2/2020)*  
+* Python
+* Same Kata but this time it's finished
+* I'm quite proud of my solution even though it feels like I'm cheating
+* What I did was I generated the first 1100000 prime numbers at the beginning of the program (surprisingly fast, only took about 0.1 seconds) and since then used the `gap` method to *just* check the gaps
+* It's quite efficient since the prime numbers are only calculated once and can then be used for every test case
+* However, this method relies on the fact that the upper limit (of `n`) is ``1100000`
+* [Codewars 5 Kyu Kata - Gap in Primes](https://www.codewars.com/kata/561e9c843a2ef5a40c0000a4/python)  
+* [Solution](https://www.codewars.com/kata/reviews/561ea274e41ebb191e00001c/groups/601bf11dd02c870001b817d4)
