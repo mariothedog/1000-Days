@@ -82,12 +82,12 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 **Day 11:** *(Streak: 11 - 12/1/2020)*
 * C++
 * This took me way longer than I'd care to admit (just under an hour!)... C++ is truly terrifying
-* [Codwars 6 Kyu Kata - Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83/cpp)  
+* [Codewars 6 Kyu Kata - Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83/cpp)  
 * [Solution](https://www.codewars.com/kata/reviews/5dd1a2d1014ee40001077b25/groups/5ffe4da3507d580001220e80)
 
 **Day 12:** *(Streak: 12 - 13/1/2020)*
 * C++
-* [Codwars 6 Kyu Kata - Find the missing term in an Arithmetic Progression](https://www.codewars.com/kata/52de553ebb55d1fca3000371/cpp)  
+* [Codewars 6 Kyu Kata - Find the missing term in an Arithmetic Progression](https://www.codewars.com/kata/52de553ebb55d1fca3000371/cpp)  
 * [Solution](https://www.codewars.com/kata/reviews/579fa0eb74cca11be3000056/groups/5fff91dcbd78f400013c4320)
 
 **Day 13:** *(Streak: 13 - 14/1/2020)*
@@ -98,17 +98,17 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 
 **Day 14:** *(Streak: 14 - 15/1/2020)*
 * C++
-* [Codwars 6 Kyu Kata - Are they the "same"?](https://www.codewars.com/kata/550498447451fbbd7600041c/cpp)  
+* [Codewars 6 Kyu Kata - Are they the "same"?](https://www.codewars.com/kata/550498447451fbbd7600041c/cpp)  
 * [Solution](https://www.codewars.com/kata/reviews/575e5517569d928432000003/groups/600255aa7dbf000001f9c59f)
 
 **Day 15:** *(Streak: 15 - 16/1/2020)*
 * C++
-* [Codwars 6 Kyu Kata - Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1/cpp)  
+* [Codewars 6 Kyu Kata - Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1/cpp)  
 * [Solution](https://pastebin.com/6ufa71J0)
 
 **Day 16:** *(Streak: 16 - 17/1/2020)*
 * C++
-* [Codwars 6 Kyu Kata - Playing with digits](https://www.codewars.com/kata/5552101f47fc5178b1000050/cpp)  
+* [Codewars 6 Kyu Kata - Playing with digits](https://www.codewars.com/kata/5552101f47fc5178b1000050/cpp)  
 * [Solution](https://www.codewars.com/kata/reviews/57874987d9456ea80500019f/groups/6004b91cfe09c70001f82ee6)
 
 **Day 17:** *(Streak: 17 - 18/1/2020)*
