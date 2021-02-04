@@ -6,7 +6,6 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * Code that I am required to do (i.e. not voluntary) will not be included (e.g. school projects)
 * "===" is used to separate different projects worked on during the same day
 
-
 ### Days
 **[Day 1:](https://github.com/mariothedog/1000-Days/blob/main/Days/Day%201/bogosort_array.cpp)** *(Streak: 1 - 2/1/2020)*
 * C++
