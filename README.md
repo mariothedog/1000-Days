@@ -4,6 +4,8 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * The definition of a day is not strictly defined. If it goes past midnight I won't count it as a different day
 * A reasonable amount of work must be done for a day to be considered as completed. For example, I can't just edit one line of code
 * Code that I am required to do (i.e. not voluntary) will not be included (e.g. school projects)
+* "===" is used to separate different projects worked on during the same day
+
 
 ### Days
 **[Day 1:](https://github.com/mariothedog/1000-Days/blob/main/Days/Day%201/bogosort_array.cpp)** *(Streak: 1 - 2/1/2020)*
