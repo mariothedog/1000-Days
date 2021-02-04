@@ -217,4 +217,9 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * It's quite efficient since the prime numbers are only calculated once and can then be used for every test case
 * However, this method relies on the fact that the upper limit (of `n`) is `1100000`
 * [Codewars 5 Kyu Kata - Gap in Primes](https://www.codewars.com/kata/561e9c843a2ef5a40c0000a4/python)  
-* [Solution](https://www.codewars.com/kata/reviews/561ea274e41ebb191e00001c/groups/601bf11dd02c870001b817d4)
+* [Solution](https://www.codewars.com/kata/reviews/561ea274e41ebb191e00001c/groups/601bf11dd02c870001b817d4)  
+===
+* JavaScript
+* [RPIBot](https://github.com/mariothedog/RPIBot/tree/e1fb88e56e3c286fba6ffda1bcae723be0dc1836)
+* Added a `states` command which tells the user the state of every GPIO pin  
+![RPIBot States Command](https://cdn.discordapp.com/attachments/535532221663019028/806977713243684884/States_Command.png)
