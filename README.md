@@ -203,4 +203,7 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 
 **Day 33:** *(Streak: 33 - 3/2/2020)*  
 * Python
-* I'm very tired so I'll update this tomorrow!
+* I didn't have much free time today so all I worked on was this Codewars Kata
+* I haven't finished it yet as my solution isn't efficient enough
+* [Codewars 5 Kyu Kata - Gap in Primes](https://www.codewars.com/kata/561e9c843a2ef5a40c0000a4/python)  
+* [Solution](https://www.codewars.com/kata/reviews/561ea274e41ebb191e00001c/groups/601bf11dd02c870001b817d4)
