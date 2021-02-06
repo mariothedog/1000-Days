@@ -223,3 +223,7 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * [RPIBot](https://github.com/mariothedog/RPIBot/tree/e1fb88e56e3c286fba6ffda1bcae723be0dc1836)
 * Added a `states` command which tells the user the state of every GPIO pin  
 ![RPIBot States Command](https://cdn.discordapp.com/attachments/535532221663019028/806977713243684884/States_Command.png)
+
+**Day 35:** *(Streak: 35 - 5/2/2020)*  
+* I'm too tired to add an image but I messed around a bit with an bar graph LED using RPIBot  
+* I'll fill this in a bit tomorrow!
