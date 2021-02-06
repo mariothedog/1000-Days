@@ -231,3 +231,9 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * All I did was I connected a bar graph LED to my RPI
 ![Bar Graph LED](https://cdn.discordapp.com/attachments/535532221663019028/807632355602071582/LED_Bar_Graph.png)
 ![GPIO Pins](https://cdn.discordapp.com/attachments/535532221663019028/807632343233593354/GPIO_Pins.png)
+
+**Day 36:** *(Streak: 36 - 6/2/2020)*  
+* GDScript (Godot Engine v3.2.3.stable.official)
+* Experimented with steering behavior
+* Credit to GDScript for their [helpful tutorial series](https://www.youtube.com/playlist?list=PLhqJJNjsQ7KFYRNAk9O95x8E4dJSdaheq) on it
+* [Source](https://github.com/mariothedog/Steering-AI/tree/773f976bce50914ab77b8fd8c0352886e5a6549c)
