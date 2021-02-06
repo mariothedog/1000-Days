@@ -225,5 +225,8 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 ![RPIBot States Command](https://cdn.discordapp.com/attachments/535532221663019028/806977713243684884/States_Command.png)
 
 **Day 35:** *(Streak: 35 - 5/2/2020)*  
-* I'm too tired to add an image but I messed around a bit with an bar graph LED using RPIBot  
-* I'll fill this in a bit tomorrow!
+* RPIBot
+* No changes to its code
+* All I did was I connected a bar graph LED to my RPI
+![Bar Graph LED](https://cdn.discordapp.com/attachments/535532221663019028/807632355602071582/LED_Bar_Graph.png)
+![GPIO Pins](https://cdn.discordapp.com/attachments/535532221663019028/807632343233593354/GPIO_Pins.png)
