@@ -4,6 +4,7 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * The definition of a day is not strictly defined. If it goes past midnight I won't count it as a different day
 * A reasonable amount of work must be done for a day to be considered as completed. For example, I can't just edit one line of code
 * Code that I am required to do (i.e. not voluntary) will not be included (e.g. school projects)
+* The work doesn't necessarily have to be code as long as it is something related to it. For example, drawing mockups or planning
 * "===" is used to separate different projects worked on during the same day
 
 ### Days
