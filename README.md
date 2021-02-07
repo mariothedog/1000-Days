@@ -237,3 +237,11 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * Experimented with steering behavior
 * Credit to GDScript for their [helpful tutorial series](https://www.youtube.com/playlist?list=PLhqJJNjsQ7KFYRNAk9O95x8E4dJSdaheq) on it
 * [Source](https://github.com/mariothedog/Steering-AI/tree/773f976bce50914ab77b8fd8c0352886e5a6549c)
+
+**Day 37:** *(Streak: 37 - 7/2/2020)*  
+* JavaScript
+* [RPIBot](https://github.com/mariothedog/RPIBot/tree/22ef0a362028550eacb0073120b3124efff3d84e)
+* Added a bunch of commands related to displaying binary on my LED Bar Graph
+* I plan on turning it into a binary calculator within the next few days (I'm not sure how many operators I'll add yet)
+* 37 in binary (100101):
+![LED Bar Graph Binary](https://cdn.discordapp.com/attachments/535532221663019028/808116532109639680/LED_Bar_Graph_Binary.png)
