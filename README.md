@@ -228,8 +228,8 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 **Day 35:** *(Streak: 35 - 5/2/2020)*  
 * RPIBot
 * No changes to its code
-* All I did was I connected a bar graph LED to my RPI
-![Bar Graph LED](https://cdn.discordapp.com/attachments/535532221663019028/807632355602071582/LED_Bar_Graph.png)
+* All I did was I connected an LED bar graph to my RPI
+![LED Bar Graph](https://cdn.discordapp.com/attachments/535532221663019028/807632355602071582/LED_Bar_Graph.png)
 ![GPIO Pins](https://cdn.discordapp.com/attachments/535532221663019028/807632343233593354/GPIO_Pins.png)
 
 **Day 36:** *(Streak: 36 - 6/2/2020)*  
