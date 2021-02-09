@@ -245,3 +245,7 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * I plan on turning it into a binary calculator within the next few days (I'm not sure how many operators I'll add yet)
 * 37 in binary (100101):
 ![LED Bar Graph Binary](https://cdn.discordapp.com/attachments/535532221663019028/808116532109639680/LED_Bar_Graph_Binary.png)
+
+**Day 38:** *(Streak: 38 - 8/2/2020)*  
+* GDScript (Godot Engine v3.2.3.stable.official)
+* I'm tired so I'll update this tomorrow!
