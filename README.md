@@ -248,4 +248,6 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 
 **Day 38:** *(Streak: 38 - 8/2/2020)*  
 * GDScript (Godot Engine v3.2.3.stable.official)
-* I'm tired so I'll update this tomorrow!
+* [Working on a new project to simulate natural selection](https://github.com/mariothedog/Natural-Selection/tree/e6d07f1001a0cc03a55de3a221c60ce3b3867786)
+* Currently the little guys just run around a box and don't do much else  
+![](https://cdn.discordapp.com/attachments/535532221663019028/808746221429850142/Day_38.gif)
