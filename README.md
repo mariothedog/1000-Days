@@ -254,6 +254,6 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 
 **Day 39:** *(Streak: 39 - 9/2/2020)*  
 * JavaScript
-* [RPIBot](https://github.com/mariothedog/RPIBot/tree/22ef0a362028550eacb0073120b3124efff3d84e)
+* [RPIBot](https://github.com/mariothedog/RPIBot/tree/43df90f2752a0f2437eb0a15025c8d3f419e563f)
 * I did a lot of refactoring today
 * Added a `get-bits-number` command which just converts the binary on the LED bar graph into decimal
