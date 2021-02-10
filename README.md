@@ -251,3 +251,9 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * [Working on a new project to simulate natural selection](https://github.com/mariothedog/Natural-Selection/tree/e6d07f1001a0cc03a55de3a221c60ce3b3867786)
 * Currently the little guys just run around a box and don't do much else  
 ![](https://cdn.discordapp.com/attachments/535532221663019028/808746221429850142/Day_38.gif)
+
+**Day 39:** *(Streak: 39 - 9/2/2020)*  
+* JavaScript
+* [RPIBot](https://github.com/mariothedog/RPIBot/tree/22ef0a362028550eacb0073120b3124efff3d84e)
+* I did a lot of refactoring today
+* Added a `get-bits-number` command which just converts the binary on the LED bar graph into decimal
