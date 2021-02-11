@@ -256,4 +256,12 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * JavaScript
 * [RPIBot](https://github.com/mariothedog/RPIBot/tree/43df90f2752a0f2437eb0a15025c8d3f419e563f)
 * I did a lot of refactoring today
-* Added a `get-bits-number` command which just converts the binary on the LED bar graph into decimal
+* Added a `get-bits-number` command which just converts the binary on the LED bar graph into 
+
+**Day 40:** *(Streak: 40 - 10/2/2020)*  
+* GDScript (Godot Engine v3.2.3.stable.official)
+* [Natural Selection Simulation](https://github.com/mariothedog/Natural-Selection/tree/3526331a6581dbe6b2be3abc66d02b156ae3ceba)
+* There's actually some natural selection going on now
+* Currently only the speed property mutates which expectedly rises over time (there are no repercussions to having a really high speed)
+* I think the time scale property might be a bit buggy but I'm not entirely sure  
+![](https://cdn.discordapp.com/attachments/535532221663019028/809240554298540042/Day_40.gif)
