@@ -277,4 +277,4 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * Added a command that adds numbers on the binary display
 * There's an optional transition parameter which makes it so the calculation isn't instant
 * Counting from 0 to 127 (2^7 - 1):  
-![Day 42](https://cdn.discordapp.com/attachments/793998490392461362/809864050351144991/Day_42.gif)
+![Day 42](Days/Day%2042/Day%2042.gif)
