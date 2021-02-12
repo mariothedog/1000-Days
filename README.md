@@ -270,3 +270,11 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * Python
 * [Codewars 6 Kyu Kata - Pairs of Bears](https://www.codewars.com/kata/57d165ad95497ea150000020)
 * [Solution](https://www.codewars.com/kata/reviews/5de92d5610dfae00012aa90c/groups/602311b7b6e12c000175b009)
+
+**Day 42:** *(Streak: 42 - 12/2/2020)*  
+* JavaScript
+* [RPIBot](https://github.com/mariothedog/RPIBot/tree/674f599abc0afba97eda755483a255845bcd918a)
+* Added a command that adds numbers on the binary display
+* There's an optional transition parameter which makes it so the calculation isn't instant
+* Counting from 0 to 127 (2^7 - 1):  
+![Day 42](https://cdn.discordapp.com/attachments/793998490392461362/809864050351144991/Day_42.gif)
