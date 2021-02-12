@@ -268,3 +268,5 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 
 **Day 41:** *(Streak: 41 - 11/2/2020)*  
 * Python
+* [Codewars 6 Kyu Kata - Pairs of Bears](https://www.codewars.com/kata/57d165ad95497ea150000020)
+* [Solution](https://www.codewars.com/kata/reviews/5de92d5610dfae00012aa90c/groups/602311b7b6e12c000175b009)
