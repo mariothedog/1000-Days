@@ -265,3 +265,6 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * Currently only the speed property mutates which unsurprisingly rises over time (there are no repercussions to having a really high speed)
 * I think the time scale property might be a bit buggy but I'm not entirely sure  
 ![](https://cdn.discordapp.com/attachments/535532221663019028/809240554298540042/Day_40.gif)
+
+**Day 41:** *(Streak: 41 - 11/2/2020)*  
+* Python
