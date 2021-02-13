@@ -278,3 +278,13 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * There's an optional transition parameter which makes it so the calculation isn't instant
 * Counting from 0 to 127 (2^7 - 1):  
 ![Day 42](Days/Day%2042/Day%2042.gif)
+
+**Day 43:** *(Streak: 43 - 13/2/2020)*  
+* GDScript (Godot Engine v3.2.3.stable.official)
+* [Natural Selection Simulation](https://github.com/mariothedog/Natural-Selection/commit/84dd80f53bfe59167c9efff92d08114c86d5621b)
+* Added some graphs
+* The one on the right is for population while the one on the left is for the population's average speed
+* The graphs aren't very descriptive currently but some general trends are still noticable:
+* Average speed tends to gradually increase over time
+* When population spikes it tends to drop rapidly shortly afterwards  
+![Day 43](Days/Day%2043/Day%2043.gif)
