@@ -288,3 +288,13 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * Average speed tends to gradually increase over time
 * When population spikes it tends to drop rapidly shortly afterwards  
 ![Day 43](Days/Day%2043/Day%2043.gif)
+
+**Day 44:** *(Streak: 44 - 14/2/2020)*  
+* JavaScript
+* [RPIBot](https://github.com/mariothedog/RPIBot/tree/2df3e5f05f649e9a599b3c199ae8af284b38e7f0)
+* I added a `calculate-bits-number` command which simplifies an arithmetic expression and then displays it
+* I used [mathjs](https://mathjs.org/) so it wasn't too difficult to implement  
+![Day 44](Days/Day%2044/Day%2044.png)  
+===
+* The first Brackeys Game Jam of 2021 starts day so I plan on working on an entry for it
+* I haven't started it yet but I have an idea in mind (tower defence-like)
