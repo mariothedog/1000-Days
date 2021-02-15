@@ -296,5 +296,8 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * I used [mathjs](https://mathjs.org/) so it wasn't too difficult to implement  
 ![Day 44](Days/Day%2044/Day%2044.png)  
 ===
-* The first Brackeys Game Jam of 2021 starts day so I plan on working on an entry for it
-* I haven't started it yet but I have an idea in mind (tower defence-like)
+* I'm entering the [first Brackeys Game Jam of 2021](https://itch.io/jam/brackeys-5)
+* I plan on making a tower defence-like game
+* I added a drag and drop mechanic to the towers
+* You can't move them once you have placed them currently  
+![Day 44 Game](Days/Day%2044/Day%2044%20Game.gif)  
