@@ -297,16 +297,22 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 ![Day 44](Days/Day%2044/Day%2044.png)  
 ===
 * I'm entering the [first Brackeys Game Jam of 2021](https://itch.io/jam/brackeys-5)
+* [Source](https://github.com/mariothedog/brackeys-game-jam/tree/b918b2b32ec2fce1d793061921acb15377c0df9e)
 * I plan on making a tower defence-like game
 * I added a drag and drop mechanic to the towers
 * You can't move them once you have placed them currently  
-![Day 44 Game](Days/Day%2044/Day%2044%20Game.gif)  
+![Day 44 Game](Days/Day%2044/Day%2044%20Game.gif)
 
 **Day 45:** *(Streak: 45 - 15/2/2020)*  
 * GDScript (Godot Engine v3.2.3.stable.official)
 * [Natural Selection Simulation](https://github.com/mariothedog/Natural-Selection/tree/7b47039a54f488415063a6fb932cecceabfd95e9)
 * I fixed some bugs related to the time scale input GUI
-* I spent a while trying to fix the time scale determinism issues but I couldn't find a solution
+* I spent a while trying to fix the time scale determinism issues but I couldn't find a solution  
 ===
 * GDScript (Godot Engine v3.2.3.stable.official)
-* I'm tired so I'll fill this part in tomorrow
+* Towers can now be:
+1. Moved once placed
+2. Put back into the inventory
+3. Towers can now be merged to create stronger turrets (currently represented by a bigger gun)
+4. Added a start button which causes turrets to shoot every second (merged turrets don't change yet)  
+![Day 45](Days/day_45/day_45.gif)
