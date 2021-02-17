@@ -317,3 +317,8 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 3. Towers can now be merged to create stronger turrets (currently represented by a bigger gun)
 4. Added a start button which causes turrets to shoot every second (merged turrets don't change yet)  
 ![Day 45](Days/day_45/day_45.gif)
+
+**Day 46:** *(Streak: 46 - 16/2/2020)*  
+* GDScript (Godot Engine v3.2.3.stable.official)
+* [Brackeys Game Jam Entry](https://github.com/mariothedog/brackeys-game-jam/tree/0d402dc48b3f76b817eacbaca3863d6aa9c5ed24)  
+![Day 46](Days/day_46/day_46.gif)
