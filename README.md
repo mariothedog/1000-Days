@@ -310,7 +310,7 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * I spent a while trying to fix the time scale determinism issues but I couldn't find a solution  
 ===
 * GDScript (Godot Engine v3.2.3.stable.official)
-* [Brackeys Game Jam Entry](https://github.com/mariothedog/brackeys-game-jam/commit/e54e9cc0957ac8d04d7404daf3896e976ed9f599)
+* [Brackeys Game Jam Entry](https://github.com/mariothedog/brackeys-game-jam/tree/e54e9cc0957ac8d04d7404daf3896e976ed9f599)
 * Towers can now be:
 1. Moved once placed
 2. Put back into the inventory
