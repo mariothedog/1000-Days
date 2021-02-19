@@ -330,4 +330,5 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 
 **Day 48:** *(Streak: 48 - 18/2/2020)*  
 * GDScript (Godot Engine v3.2.3.stable.official)
-* [Todo]
+* [Brackeys Game Jam Entry](https://github.com/mariothedog/brackeys-game-jam/tree/0b63a016d5c00cc685135fae2535d106584e1dd5)  
+![Day 48](Days/day_48/day_48.gif)
