@@ -336,7 +336,7 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 **Day 49:** *(Streak: 49 - 19/2/2020)*  
 * GDScript (Godot Engine v3.2.3.stable.official)
 * [Brackeys Game Jam Entry](https://github.com/mariothedog/brackeys-game-jam/tree/3776d417467bc19765e592a51d72046227a58ea7)  
-![Day 49](Days/day_49/day_49.gif)
+![Day 49](Days/day_49/day_49.gif)  
 ===
 * Python
 * I experimented a bit with matplotlib using [this tutorial](https://youtu.be/UO98lJQ3QGI)
