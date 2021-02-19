@@ -332,3 +332,8 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * GDScript (Godot Engine v3.2.3.stable.official)
 * [Brackeys Game Jam Entry](https://github.com/mariothedog/brackeys-game-jam/tree/0b63a016d5c00cc685135fae2535d106584e1dd5)  
 ![Day 48](Days/day_48/day_48.gif)
+
+**Day 49:** *(Streak: 49 - 19/2/2020)*  
+* GDScript (Godot Engine v3.2.3.stable.official)
+* [Brackeys Game Jam Entry](https://github.com/mariothedog/brackeys-game-jam/tree/3776d417467bc19765e592a51d72046227a58ea7)  
+![Day 49](Days/day_49/day_49.gif)
