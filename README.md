@@ -340,3 +340,7 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 ===
 * Python
 * I experimented a bit with matplotlib using [this tutorial](https://youtu.be/UO98lJQ3QGI)
+
+**Day 50:** *(Streak: 50 - 20/2/2020)*  
+* GDScript (Godot Engine v3.2.3.stable.official)
+* [TODO] 
