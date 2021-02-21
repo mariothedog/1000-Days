@@ -343,4 +343,14 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 
 **Day 50:** *(Streak: 50 - 20/2/2020)*  
 * GDScript (Godot Engine v3.2.3.stable.official)
-* [TODO] 
+* [Brackeys Game Jam Entry](https://github.com/mariothedog/brackeys-game-jam/tree/cb03ec3060f19e503c73959ee0805ff948f0c98c)
+* I polished it up a bit and I made 10 levels and one infinite level after that
+
+**Day 51:** *(Streak: 51 - 21/2/2020)*  
+* GDScript (Godot Engine v3.2.3.stable.official)
+* [Brackeys Game Jam Entry](https://github.com/mariothedog/brackeys-game-jam/tree/7742bc5ae2f13bad46aea111ac5e7c3162613b75)
+* I added sound effects
+* I was planning on adding music but the piece I wrote was really bad so I just scrapped it
+* The game has a name now - "Simultaneous Turrets"
+* You can play it [here (HTML5, Windows, Mac, and Linux)](https://mariothedog.itch.io/simultaneous-turrets)
+* [Video walkthrough](https://www.youtube.com/watch?v=OLE0pTRPYTA)
