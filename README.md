@@ -354,3 +354,6 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * The game has a name now - "Simultaneous Turrets"
 * You can play it [here (HTML5, Windows, Mac, and Linux)](https://mariothedog.itch.io/simultaneous-turrets)
 * [Video walkthrough](https://www.youtube.com/watch?v=OLE0pTRPYTA)
+
+**Day 52:** *(Streak: Unknown - 22/2/2020)*  
+* It's currently 4 am and I'm tired. I might end up forcing myself to do a Codewars kata so I don't lose my streak but we'll find out
