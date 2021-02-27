@@ -385,3 +385,9 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * I added A\* pathfinding which generates every path from every enemy start position to every enemy end position
 * 3 enemy paths:  
 ![Enemy Pathfinding](Days/day_56/day_56.png)  
+
+**Day 57:** *(Streak: 57 - 27/2/2020)*  
+* GDScript (Godot Engine v3.2.3.stable.official)
+* [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/3db403f0a7b0d91c395628f44ed3ecc58c666df2)
+* I added enemies that follow the paths  
+![Enemy Pathfinding](Days/day_57/day_57.gif)  
