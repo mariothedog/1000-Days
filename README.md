@@ -355,5 +355,33 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * You can play it [here (HTML5, Windows, Mac, and Linux)](https://mariothedog.itch.io/simultaneous-turrets)
 * [Video walkthrough](https://www.youtube.com/watch?v=OLE0pTRPYTA)
 
-**Day 52:** *(Streak: Unknown - 22/2/2020)*  
-* It's currently 4 am and I'm tired. I might end up forcing myself to do a Codewars kata so I don't lose my streak but we'll find out
+**Day 52:** *(Streak: 52 - 22/2/2020)*  
+* It's been a few (5!!) days since I last updated this - sorry about that! Fortunately, my streak is still going strong
+* Python
+* [Codewars 6 Kyu Kata - Simple Fun #132: Number Of Carries](https://www.codewars.com/kata/58a6568827f9546931000027)
+* [Solution](https://www.codewars.com/kata/reviews/58e48937d1c6cd5490000060/groups/60347fafe89cdf0001d0c62f)
+
+**Day 53:** *(Streak: 53 - 23/2/2020)*  
+* Git (does this even count?) and GDScript (Godot Engine v3.2.3.stable.official)
+* [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/a6df5ebe709fee33f5bc29cfabca5df20872684a)
+* I didn't do much today aside from preparing the simultaneous turrets repo for the post-jam version
+* I'll be remaking the game from scratch since a lot of things need to be refactored and redesigned
+
+**Day 54:** *(Streak: 54 - 24/2/2020)*  
+* GDScript (Godot Engine v3.2.3.stable.official)
+* [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/41af226145dbf8abf697a1586a8c8280b0ec6a19)
+* I added a basic level editor
+* It pretty much just saves the tilemap data to a resource file
+
+**Day 55:** *(Streak: 55 - 25/2/2020)*  
+* GDScript (Godot Engine v3.2.3.stable.official)
+* [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/711fbd8f0ad3a654daf265f53fedfbaeb922e610)
+* I added some things in preparation for the enemy path tiles but they're not very interesting
+
+**Day 56:** *(Streak: 56 - 26/2/2020)*  
+* GDScript (Godot Engine v3.2.3.stable.official)
+* [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/c643ccb5f8f5b728cfce40a4e41fea89a6f209a1)
+* Lots of progress on the enemy paths today
+* I added A\* pathfinding which generates every path from every enemy start position to every enemy end position
+* 3 enemy paths:  
+![Enemy Pathfinding](Days/day_56/day_56.png)  
