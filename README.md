@@ -395,18 +395,18 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 **Day 58:** *(Streak: 58 - 28/2/2020)*  
 * GDScript (Godot Engine v3.2.3.stable.official)
 * [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/b4fa85ce4417303ef9cc67c50c78d3da06140474)
-* Work in progress inventory
+* Work in progress inventory  
 ![](Days/day_58/day_58.png)
 
 **Day 59:** *(Streak: 59 - 1/3/2020)*  
 * GDScript (Godot Engine v3.2.3.stable.official)
 * [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/89d58d92c8c687f253fe15ee92fa46fc36b7f456)
 * Redesigned the inventory
-* Also experimented a lot with making fonts
+* Also experimented a lot with making fonts  
 ![](Days/day_59/day_59.png)
 
 **Day 60:** *(Streak: 60 - 2/3/2020)*  
 * GDScript (Godot Engine v3.2.3.stable.official)
 * [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/ae7fb9775b0c37cbe73a5ac23f5f0dc3734a6c12)
-* Inventory that slides in and out
+* Inventory that slides in and out  
 ![](Days/day_60/day_60.gif)
