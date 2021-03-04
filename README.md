@@ -414,5 +414,5 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 **Day 61:** *(Streak: 61 - 3/3/2020)*  
 * GDScript (Godot Engine v3.2.3.stable.official)
 * [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/37ec43e70dcc0cdec8c97506f39dc179bf97818d)
-* Basic drag and drop UI
+* Basic drag and drop UI  
 ![](Days/day_61/day_61.gif)
