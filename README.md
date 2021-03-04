@@ -23,7 +23,7 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 **Day 3:** *(Streak: 3 - 4/1/2020)*
 * JavaScript
 * Worked on my Discord bot - [Mariothebot](https://github.com/mariothedog/Mariothebot)
-* Overhauled the [add-reaction-channel](https://github.com/mariothedog/Mariothebot/blob/master/Commands/Reactions/add-reaction-channel.js) command (took way longer than it should have)
+* Overhauled the [add-reaction-channel](https://github.com/mariothedog/Mariothebot/blob/master/Commands/Reactions/add-reaction-channel.js) command (took way longer than it should have)  
 ![Command](https://cdn.discordapp.com/attachments/535532221663019028/795854063145058304/add-reaction-channel.png)
 * Updated the [tags](https://github.com/mariothedog/Mariothebot/blob/master/Commands/NSFW/tags.js) command (NSFW) to work with a more up-to-date package (previous one was deprecated)
 
