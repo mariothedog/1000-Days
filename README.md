@@ -416,3 +416,9 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/37ec43e70dcc0cdec8c97506f39dc179bf97818d)
 * Basic drag and drop UI  
 ![](Days/day_61/day_61.gif)
+
+**Day 62:** *(Streak: 62 - 4/3/2020)*  
+* GDScript (Godot Engine v3.2.3.stable.official)
+* [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/a637b22f92c7dd10d91fe45aea470a458d9e10b0)
+* Turret aiming  
+![](Days/day_62/day_62.gif)
