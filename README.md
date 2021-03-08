@@ -423,3 +423,28 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * Turret snapping
 * Turret aiming  
 ![](Days/day_62/day_62.gif)
+
+**Day 63:** *(Streak: 63 - 5/3/2020)*  
+* GDScript (Godot Engine v3.2.3.stable.official)
+* [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/d49eda4a3d7c9c6de52370c594dd3cc78a3635bd)
+* Turret shooting  
+![](Days/day_63/day_63.gif)
+
+**Day 64:** *(Streak: 64 - 6/3/2020)*  
+* GDScript (Godot Engine v3.2.3.stable.official)
+* [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/b701dff0b5c65e36e1f0ee0be81e5b4e2fb370b4)
+* Just some inventory bug fixes  
+![](Days/day_64/day_64.gif)
+
+**Day 65:** *(Streak: 65 - 7/3/2020)*  
+* GDScript (Godot Engine v3.2.3.stable.official)
+* [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/6ceee09280f7ce303342de37baf85376780f034d)
+* I made a [postmortem for the game jam](https://mariothedog.itch.io/simultaneous-turrets/devlog/229253/jam-postmortem)
+* Turret sightlines
+* Spent a long time trying to fix [this issue](https://github.com/godotengine/godot/issues/46788) (and failed)
+
+**Day 66:** *(Streak: 66 - 8/3/2020)*  
+* GDScript (Godot Engine v3.2.3.stable.official)
+* [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/ba005e5db227b81b5f6286a3071fda840ac1c284)
+* Small improvements and bug fixes  
+![](Days/day_66/day_66.gif)
