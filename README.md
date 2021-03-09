@@ -446,5 +446,6 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 **Day 66:** *(Streak: 66 - 8/3/2020)*  
 * GDScript (Godot Engine v3.2.3.stable.official)
 * [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/ba005e5db227b81b5f6286a3071fda840ac1c284)
-* Small improvements and bug fixes  
+* Small improvements and bug fixes
+* Made [another devlog](https://mariothedog.itch.io/simultaneous-turrets/devlog/229821/my-thoughts-on-a-post-jam-version)  
 ![](Days/day_66/day_66.gif)
