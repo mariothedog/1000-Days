@@ -449,3 +449,9 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * Small improvements and bug fixes
 * Made [another devlog](https://mariothedog.itch.io/simultaneous-turrets/devlog/229821/my-thoughts-on-a-post-jam-version)  
 ![](Days/day_66/day_66.gif)
+
+**Day 67:** *(Streak: 67 - 9/3/2020)*  
+* GDScript (Godot Engine v3.2.3.stable.official)
+* [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/61cdf6ec8d602e38f0ebeb5bcfc54d2ac6016887)
+* Added a (currently useless) start and stop button  
+![](Days/day_67/day_67.png)
