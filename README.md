@@ -460,4 +460,4 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * GDScript (Godot Engine v3.2.3.stable.official)
 * [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/4e181b2f4522cd71d73dc71441affa73c8cdcd5d)
 * Gave the start/stop buttons some functionality  
-![](Days/day_68/day_68.png)
+![](Days/day_68/day_68.gif)
