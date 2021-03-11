@@ -455,3 +455,9 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/61cdf6ec8d602e38f0ebeb5bcfc54d2ac6016887)
 * Added a (currently useless) start and stop button  
 ![](Days/day_67/day_67.png)
+
+**Day 68:** *(Streak: 68 - 10/3/2020)*  
+* GDScript (Godot Engine v3.2.3.stable.official)
+* [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/4e181b2f4522cd71d73dc71441affa73c8cdcd5d)
+* Gave the start/stop buttons some functionality  
+![](Days/day_68/day_68.png)
