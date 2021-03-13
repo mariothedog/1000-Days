@@ -467,3 +467,21 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/c5c011090bdf48e6c4894b5c45f74c917b4ef3a2)
 * Fixed a few bugs  
 ![](Days/day_69/day_69.gif)
+
+**Day 70:** *(Streak: 70 - 12/3/2020)*  
+* GDScript (Godot Engine v3.2.3.stable.official)
+* [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/b4c626579748c3d38bd4179de3ba8ac04ce71d20)
+* Added turret merging but currently all it does is change the gun sprite  
+![](Days/day_70/day_70.gif)
+
+**Day 71:** *(Streak: 71 - 13/3/2020)*  
+* GDScript (Godot Engine v3.2.3.stable.official)
+* [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/c791c5168b9ac828ff40b6cc888b1b772925e77d)
+* Fixed bug where you could merge more than 8 turrets
+* Added sight lines and bullets based on turret level
+* Stopped bullets from being able to collide with each other
+* Made enemy colliders move instantly while the sprite still lerps (should hopefully remove any possible determinism issues)
+* Fixed a bug where the enemy spawn order could change
+* Added enemy spawn indicators
+* Added a base tile (if the enemy touches it you lose)  
+![](Days/day_71/day_71.gif)
