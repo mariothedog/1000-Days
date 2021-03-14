@@ -485,3 +485,10 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * Added enemy spawn indicators
 * Added a base tile (if the enemy touches it you lose)  
 ![](Days/day_71/day_71.gif)
+
+**Day 72:** *(Streak: 72 - 14/3/2020)*  (Happy π day)
+* GDScript (Godot Engine v3.2.3.stable.official)
+* [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/2cc1395a1b15369fe61533c12639d00f6f8752ca)
+* Added health
+* Fixed a load of bugs  
+![](Days/day_72/day_72.gif)
