@@ -493,3 +493,9 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * Fixed a load of bugs
 * Devlog: https://mariothedog.itch.io/simultaneous-turrets/devlog/231822/combining-turrets-and-death  
 ![](Days/day_72/day_72.gif)
+
+**Day 73:** *(Streak: 73 - 15/3/2020)*
+* GDScript (Godot Engine v3.2.3.stable.official)
+* [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/bf83210f0ca9dd7c4348fd2aac218ad2bd2dca7c)
+* Added changing the enemy path order in the level editor  
+![](Days/day_73/day_73.gif)
