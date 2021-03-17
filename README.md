@@ -499,3 +499,9 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/bf83210f0ca9dd7c4348fd2aac218ad2bd2dca7c)
 * Added changing the enemy path order in the level editor  
 ![](Days/day_73/day_73.gif)
+
+**Day 74:** *(Streak: 74 - 16/3/2020)*
+* GDScript (Godot Engine v3.2.3.stable.official)
+* [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/f87466a875dd6425b584f3d56cba7f64f3a8097b)
+* Added changing the number of lives you have to the level editor
+* Refactored a few things
