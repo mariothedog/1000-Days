@@ -505,3 +505,15 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/f87466a875dd6425b584f3d56cba7f64f3a8097b)
 * Added changing the number of lives you have to the level editor
 * Refactored a few things
+
+**Day 75:** *(Streak: 75 - 17/3/2020)*
+* GDScript (Godot Engine v3.2.3.stable.official)
+* [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/commit/66ac30541fcd8e15348e1c3207b6819b63c37e3a)
+* Refactored some things
+* Fixed a few bugs
+* Added a finite number of turrets
+* Added a finite number of enemies
+* Adding changing the level's resource path in the level editor
+* Copied over the game jam version's first level
+* Added a level counter to the HUD  
+![](Days/day_75/day_75.gif)
