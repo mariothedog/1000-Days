@@ -517,3 +517,12 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * Copied over the game jam version's first level
 * Added a level counter to the HUD  
 ![](Days/day_75/day_75.gif)
+
+**Day 76:** *(Streak: 76 - 18/3/2020)*
+* GDScript (Godot Engine v3.2.3.stable.official)
+* [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/f8a83b05444fec4387039dbcacc4f99b4ee89942)
+* Copied over the game jam version's second level (technically this was done yesterday but I pushed it today)
+* Added automatic level changing after a level is completed
+* Removed the debug path lines
+* Fixed a turret path bug (I ***really*** hope this is the last time I have to fix one of these)  
+![](Days/day_76/day_76.gif)
