@@ -508,7 +508,7 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 
 **Day 75:** *(Streak: 75 - 17/3/2020)*
 * GDScript (Godot Engine v3.2.3.stable.official)
-* [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/commit/66ac30541fcd8e15348e1c3207b6819b63c37e3a)
+* [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/66ac30541fcd8e15348e1c3207b6819b63c37e3a)
 * Refactored some things
 * Fixed a few bugs
 * Added a finite number of turrets
