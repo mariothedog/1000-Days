@@ -505,6 +505,8 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/f87466a875dd6425b584f3d56cba7f64f3a8097b)
 * Added changing the number of lives you have to the level editor
 * Refactored a few things
+* I tried timing bullets to the step timer on a different branch (https://github.com/mariothedog/simultaneous-turrets/tree/384a0bfc1c21fffbcace409c5c50cf5ff4ef8194)
+* I tried using lasers instead of bullets on a different branch (https://github.com/mariothedog/simultaneous-turrets/tree/0f11d4ab7e79762a68cd2ea9ba1a198ab133385d)
 
 **Day 75:** *(Streak: 75 - 17/3/2020)*
 * GDScript (Godot Engine v3.2.3.stable.official)
