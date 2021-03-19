@@ -526,3 +526,9 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * Removed the debug path lines
 * Fixed a turret path bug (I ***really*** hope this is the last time I have to fix one of these)  
 ![](Days/day_76/day_76.gif)
+
+**Day 77:** *(Streak: 77 - 19/3/2020)*
+* GDScript (Godot Engine v3.2.3.stable.official)
+* [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/3f0307cd7e9bf2575febe351ea923fa812ded462)
+* Currently the game feels very different to the jam version which I'm trying to fix
+* I tried making enemies move 2 tiles at a time but currently it's very experimental
