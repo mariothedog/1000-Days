@@ -541,5 +541,5 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * I made enemies move every 0.5 seconds which I think feels a bit better than yesterday's version
 * I fixed a bug where turrets couldn't be selected if they were on a leftmost tile
 * I also fixed another turret rotation bug and I'm pretty confident that I won't have to fix this again
-* I added the experimental bullet timing which is very buggy and actually feels laggy (despite it not actually being laggy)  
+* I added the experimental bullet timing which is very buggy and feels quite laggy (despite it not actually being laggy)  
 ![](Days/day_78/day_78.gif)
