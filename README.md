@@ -534,3 +534,12 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/3f0307cd7e9bf2575febe351ea923fa812ded462)
 * Currently the game feels very different to the jam version which I'm trying to fix
 * I tried making enemies move 2 tiles at a time but currently it's very experimental
+
+**Day 78:** *(Streak: 78 - 20/3/2020)*
+* GDScript (Godot Engine v3.2.3.stable.official)
+* [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/c830f0ced4b4e9264b4899891fabdc60c1431e9b)
+* I made enemies move every 0.5 seconds which I think feels a bit better than yesterday's version
+* I fixed a bug where turrets couldn't be selected if they were on a leftmost tile
+* I also fixed another turret rotation bug and I'm pretty confident that I won't have to fix this again
+* I added the experimental bullet timing which is very buggy and actually feels laggy (despite it not actually being laggy)  
+![](Days/day_78/day_78.gif)
