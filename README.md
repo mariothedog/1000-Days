@@ -526,7 +526,7 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * Copied over the game jam version's second level (technically this was done yesterday but I pushed it today)
 * Added automatic level changing after a level is completed
 * Removed the debug path lines
-* Fixed a turret path bug (I ***really*** hope this is the last time I have to fix one of these)  
+* Fixed a turret rotation bug (I ***really*** hope this is the last time I have to fix one of these)  
 ![](Days/day_76/day_76.gif)
 
 **Day 77:** *(Streak: 77 - 19/3/2020)*
