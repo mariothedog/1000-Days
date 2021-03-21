@@ -543,3 +543,10 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * I also fixed another turret rotation bug and I'm pretty confident that I won't have to fix this again
 * I added the experimental bullet timing which is very buggy and feels quite laggy (despite it not actually being laggy)  
 ![](Days/day_78/day_78.gif)
+
+**Day 79:** *(Streak: 79 - 21/3/2020)*
+* GDScript (Godot Engine v3.2.3.stable.official)
+* [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/dfba0f9911e2b1703853ab5dda934993d5ef2d56)
+* I fixed a bug with the experimental bullet timing but it still feels quite off
+* I also experimented with moving the colliders smoothly as well (https://github.com/mariothedog/simultaneous-turrets/tree/0f2300164b3a0594885e672118b0575639b92117)  
+![](Days/day_79/day_79.gif)
