@@ -550,3 +550,18 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * I fixed a bug with the experimental bullet timing but it still feels quite off
 * I also experimented with moving the colliders smoothly as well (https://github.com/mariothedog/simultaneous-turrets/tree/0f2300164b3a0594885e672118b0575639b92117)  
 ![](Days/day_79/day_79.gif)
+
+**Day 80:** *(Streak: 80 - 22/3/2020)*
+* GDScript (Godot Engine v3.2.3.stable.official)
+* I was working on Simultaneous Turrets but I'm switching between branches a lot since it's all very experimental
+* [Experimental timing 1 branch](https://github.com/mariothedog/simultaneous-turrets/tree/42d8cb4a6c42ff754fe33ed302130d0f2620e772)
+* [Experimental timing 3 branch](https://github.com/mariothedog/simultaneous-turrets/tree/99c312ac2bb639b474cb840109ba3ebddb03db9b)
+* [Experimental timing 4 branch](https://github.com/mariothedog/simultaneous-turrets/commit/55847d56d310a685dbe423583e68185b642f5ac3)
+* (We don't talk about the experimental timing 2 branch)
+
+**Day 81:** *(Streak: 81 - 23/3/2020)*
+* GDScript (Godot Engine v3.2.3.stable.official)
+* I was working on Simultaneous Turrets but like with yesterday, it's very experimental. I didn't actually commit anything today but I assure you, I have been working on it
+* I've tried out a lot of different ideas and I'm starting to think timed bullets (e.g. bullets move one tile per second) are a badi dea
+* I don't really like the "stacking" effect they create (when bullets go a long time without hitting an enemy so there is just a long chain of bullets which can then kill multiple enemies in a row) but I'm still not sure if I want to remove it or not
+* I'm also thinking about using hitscan projectiles
