@@ -562,6 +562,6 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 **Day 81:** *(Streak: 81 - 23/3/2020)*
 * GDScript (Godot Engine v3.2.3.stable.official)
 * I was working on Simultaneous Turrets but like with yesterday, it's very experimental. I didn't actually commit anything today but I assure you, I have been working on it
-* I've tried out a lot of different ideas and I'm starting to think timed bullets (e.g. bullets move one tile per second) are a badi dea
+* I've tried out a lot of different ideas and I'm starting to think timed bullets (e.g. bullets move one tile per second) are a bad dea
 * I don't really like the "stacking" effect they create (when bullets go a long time without hitting an enemy so there is just a long chain of bullets which can then kill multiple enemies in a row) but I'm still not sure if I want to remove it or not
 * I'm also thinking about using hitscan projectiles
