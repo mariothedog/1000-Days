@@ -556,7 +556,7 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * I was working on Simultaneous Turrets but I'm switching between branches a lot since it's all very experimental
 * [Experimental timing 1 branch](https://github.com/mariothedog/simultaneous-turrets/tree/42d8cb4a6c42ff754fe33ed302130d0f2620e772)
 * [Experimental timing 3 branch](https://github.com/mariothedog/simultaneous-turrets/tree/99c312ac2bb639b474cb840109ba3ebddb03db9b)
-* [Experimental timing 4 branch](https://github.com/mariothedog/simultaneous-turrets/commit/55847d56d310a685dbe423583e68185b642f5ac3)
+* [Experimental timing 4 branch](https://github.com/mariothedog/simultaneous-turrets/tree/55847d56d310a685dbe423583e68185b642f5ac3)
 * (We don't talk about the experimental timing 2 branch)
 
 **Day 81:** *(Streak: 81 - 23/3/2020)*
