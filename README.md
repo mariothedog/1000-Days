@@ -571,3 +571,9 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/f71aa1efe9ec70f0fc04e86b462698bac343dca0)
 * I didn't do much today but I did create *another* new branch (this is getting very confusing)
 * All I did was I removed the timed bullets which I thought about doing yesterday
+
+**Day 83:** *(Streak: 83 - 25/3/2020)*
+* GDScript (Godot Engine v3.2.3.stable.official)
+* [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/4ac911021f1deeded29436a8e69ed592f9881c52)
+* I added back the enemy collider's instant movement from tile-to-tile
+* I experimented a bit with adding a delay before turrets shoot bullets so that enemies move then turrets shoot (the delay only happens when there is an enemy in front of the turret). I don't really like how it turned out though. I'll definitely need to experiment with it a bit more
