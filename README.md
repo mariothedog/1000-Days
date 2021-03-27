@@ -583,3 +583,15 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/c45721c3357f094bfec4244df844aee575c0937e)
 * I didn't do much today but I did revert the experimental turret shooting delay
 * I'm going to experiment with a hitscan-type thing with the bullets tomorrow but I'm not really sure how it will go
+
+**Day 85:** *(Streak: 85 - 27/3/2020)*
+* GDScript (Godot Engine v3.2.3.stable.official)
+* Simultaneous Turrets
+* [Experimental timing 6](https://github.com/mariothedog/simultaneous-turrets/tree/c9c51532538fb7ca962fc6f0d855905df233ee94):
+* I experimented with hitscan like I mentioned yesterday by trying to use a raycast as a way to verify that the enemy that the bullet is colliding with is really the first enemy in front of the bullet
+* I don't really like how it turned out though and the commit I made is still filled with commented out code
+* [Experimental timing 7](https://github.com/mariothedog/simultaneous-turrets/tree/cbe4ebee38e3d010bca9136963cf21fb42a64625):
+* I added back smooth enemy collider movement (for like the 80th time)
+* I made it so a bullet's speed was measured in tiles/second instead of pixels/second. Currently bullets move 25 tiles/second (which is 300 pixels/s)
+* I made a design doc but it's quite empty at the moment: https://docs.google.com/document/d/1mG--18b3iOtmumqtHXNJIOKp0vuaAl71bZtf9eAatU4/edit?usp=sharing
+* I'm starting to think that maybe making the game turn-based is a bad idea
