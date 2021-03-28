@@ -548,7 +548,8 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * GDScript (Godot Engine v3.2.3.stable.official)
 * [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/dfba0f9911e2b1703853ab5dda934993d5ef2d56)
 * I fixed a bug with the experimental bullet timing but it still feels quite off
-* I also experimented with moving the colliders smoothly as well (https://github.com/mariothedog/simultaneous-turrets/tree/0f2300164b3a0594885e672118b0575639b92117)  
+* I also experimented with moving the colliders smoothly as well (https://github.com/mariothedog/simultaneous-turrets/tree/0f2300164b3a0594885e672118b0575639b92117) 
+* Devlog:  https://mariothedog.itch.io/simultaneous-turrets/devlog/234235/timed-bullets-and-level-improvements
 ![](Days/day_79/day_79.gif)
 
 **Day 80:** *(Streak: 80 - 22/3/2020)*
