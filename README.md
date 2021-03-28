@@ -597,3 +597,14 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * I'm starting to think that maybe making the game turn-based is a bad idea
 * [Experimental timing 8](https://github.com/mariothedog/simultaneous-turrets/tree/40a56936e58c920a0a7578c050c2dae8dabf9a73):
 * I honestly cannot remember what this branch is even supposed to do
+
+**Day 86:** *(Streak: 86 - 28/3/2020)*
+* GDScript (Godot Engine v3.2.3.stable.official)
+* [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/62ea87a84de61cb2d5d158fa1ab27192f6a2820f)
+* Woohoo, new branch: experimental timing number 9
+* I added a delay so that turrets only shoot after enemies have moved
+* ... I then later removed that delay
+* I added back timed bullets - but this time with a twist
+* *Everything* is done in some weird instruction-based pattern-like format
+* I actually quite like how it turned out but it's difficult to explain so just look:  
+![](Days/day_86/day_86.gif)
