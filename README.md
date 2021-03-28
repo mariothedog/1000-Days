@@ -602,6 +602,7 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 **Day 86:** *(Streak: 86 - 28/3/2020)*
 * GDScript (Godot Engine v3.2.3.stable.official)
 * [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/62ea87a84de61cb2d5d158fa1ab27192f6a2820f)
+* Devlog: https://mariothedog.itch.io/simultaneous-turrets/devlog/236683/timing-and-lots-of-experimentation
 * Woohoo, new branch: experimental timing number 9
 * I added a delay so that turrets only shoot after enemies have moved
 * ... I then later removed that delay
