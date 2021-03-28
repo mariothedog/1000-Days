@@ -595,3 +595,5 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * I made it so a bullet's speed was measured in tiles/second instead of pixels/second. Currently bullets move 25 tiles/second (which is 300 pixels/s)
 * I made a design doc but it's quite empty at the moment: https://docs.google.com/document/d/1mG--18b3iOtmumqtHXNJIOKp0vuaAl71bZtf9eAatU4/edit?usp=sharing
 * I'm starting to think that maybe making the game turn-based is a bad idea
+* [Experimental timing 8](https://github.com/mariothedog/simultaneous-turrets/tree/40a56936e58c920a0a7578c050c2dae8dabf9a73):
+* I honestly cannot remember what this branch is even supposed to do
