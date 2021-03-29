@@ -610,3 +610,11 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * *Everything* is done in some weird instruction-based pattern-like format
 * I actually quite like how it turned out but it's difficult to explain so just look:  
 ![](Days/day_86/day_86.gif)
+
+**Day 87:** *(Streak: 87 - 29/3/2020)*
+* GDScript (Godot Engine v3.2.3.stable.official)
+* [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/f5d27ef78f8295f39a8a351c0eda64943c24171d)
+* I fixed the turret rotation bug ***again***. I know I said that I was confident I had fixed it last time but this time I'm like extra confident. (I am going to throw a temper tantrum if this is not fixed)
+* I merged the experimental-timing-9 branch into timing and then timing into main but I haven't deleted any of the branches yet. I'm too scared that I'll need to go back and use the stuff from those other branches so I'm going to leave them up for at least a week
+* I added steps to the level editor:  
+![](Days/day_87/day_87.png)
