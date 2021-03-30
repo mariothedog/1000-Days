@@ -618,3 +618,11 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * I merged the experimental-timing-9 branch into timing and then timing into main but I haven't deleted any of the branches yet. I'm too scared that I'll need to go back and use the stuff from those other branches so I'm going to leave them up for at least a week
 * I added steps to the level editor:  
 ![](Days/day_87/day_87.png)
+
+**Day 88:** *(Streak: 88 - 30/3/2020)*
+* GDScript (Godot Engine v3.2.3.stable.official)
+* [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/ee17a79906150b4e9134c7fb0b45843da4dcbe58)
+* Balanced levels 0-2
+* Made it so enemies move before a new one spawns
+* Refactored some things
+* Add level loading to the level editor
