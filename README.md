@@ -631,6 +631,6 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * GDScript (Godot Engine v3.2.3.stable.official)
 * [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/b73d5ae3270757824c6da4018febe1785895b42d)
 * I fixed some bugs that occur when playing the game with a really high step rate. I tested it with a wait time of 0.001 seconds (so each turn lasts 1 millisecond) and it *seems* to be bug-free
-* I made level 1 completable with only 1 turret. I'm quite proud of this as it's actually slower (i.e. it takes more turns) if you use only one turret so it's like an act of balancing effiency (number of turrets) and speed (number of turns)
+* I made level 1 completable with only 1 turret. I'm quite proud of this as it's actually slower (i.e. it takes more turns) if you use only one turret so it's like an act of balancing efficiency (number of turrets) and speed (number of turns)
 * To do this, I made the level 1 enemies spawn in groups 3 and changed the number of enemies to 4 total. The way I did this was quite hacky but I plan on improving this tomorrow
 * I was planning on experimenting with moving bullets 3 tiles *in one turn* but I didn't end up doing it. I might try it out tomorrow
