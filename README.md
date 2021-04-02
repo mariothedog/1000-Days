@@ -635,7 +635,7 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * To do this, I made the level 1 enemies spawn in groups 3 and changed the number of enemies to 4 total. The way I did this was quite hacky but I plan on improving this tomorrow
 * I was planning on experimenting with moving bullets 3 tiles *in one turn* but I didn't end up doing it. I might try it out tomorrow
 
-**Day 90:** *(Streak: 90 - 1/4/2020)* (Happy April fools)
+**Day 90:** *(Streak: 90 - 1/4/2020)* (Happy April fools day)
 * GDScript (Godot Engine v3.2.3.stable.official)
 * [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/f76ce41e16b60eeabcbf66cc8e4e14b64cc5e602)
 * I added enemy group sizes so e.g. 3 enemies will spawn then there will be a gap then another 3 will spawn
