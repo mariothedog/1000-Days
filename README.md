@@ -650,4 +650,5 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * I made bullet move steps that occur after a turret shoot step happen on the same turn as the turret shoot step
 * I tidied up the turret shoot animation and I think it looks really good (despite its simplicity)
 * I might add particle effects or something tomorrow and then I'll probably merge it with main
+* Note that the gif makes the animation look slightly worse  
 ![](Days/day_91/day_91.gif)
