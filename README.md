@@ -643,3 +643,11 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * I made bullets spawn on the tile that the turret is on instead of on the tile ahead of the turret
 * I added a turret shoot animation but currently it's very experimental. I also reverted the thing above to do this but I think I'll add it back tomorrow  
 ![](Days/day_90/day_90.gif)
+
+**Day 91:** *(Streak: 91 - 2/4/2020)*
+* GDScript (Godot Engine v3.2.3.stable.official)
+* [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/5b6f92b6e05d1e476e84a41b46c7772f8c6e3d31)
+* I made bullet move steps that occur after a turret shoot step happen on the same turn as the turret shoot step
+* I tidied up the turret shoot animation and I think it looks really good (despite its simplicity)
+* I might add particle effects or something tomorrow and then I'll probably merge it with main
+![](Days/day_91/day_91.gif)
