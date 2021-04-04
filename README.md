@@ -660,3 +660,12 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * The game waits till the current step has been completed before starting a new one. This fixes some animation issues that occurred when playing at a high step rate. It should also make the game more deterministic
 * I feel like this might make syncing the music hard as each step lasts a different amount of time. I made it so there's a delay of 0.1 second after each turn before the next one but I might change it so that it works in a padding-like fashion instead. So for example, if a turn lasted 0.3 seconds I could pad 0.2 seconds to make it last 0.5 seconds total. If it lasted 0.1 seconds then I could pad 0.4 seconds to make it last 0.5 seconds as well. (So all turns would last 0.5 seconds.) And if a turn exceeded 0.5 seconds it would just be left alone  
 ![](Days/day_92/day_92.gif)
+
+**Day 93:** *(Streak: 93 - 4/4/2020)*
+* GDScript (Godot Engine v3.2.3.stable.official)
+* [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/0c03aad1ac6ec94d2d6f8f1c20f51fb172cf648b)
+* Enemy turns are now skipped if there are no enemy paths
+* I added the "step delay padding" I talked about yesterday. Each turn lasts a minimum of 0.5 seconds now
+* I added a speed up button but it's still quite buggy. Sometimes it causes bullets to phase through enemies
+* I added level 3 but I feel like it's quite boring. I might make some changes to it later on  
+![](Days/day_93/day_93.gif)
