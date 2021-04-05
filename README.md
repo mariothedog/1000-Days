@@ -669,3 +669,9 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * I added a speed up button but it's still quite buggy. Sometimes it causes bullets to phase through enemies
 * I added level 3 but I feel like it's quite boring. I might make some changes to it later on  
 ![](Days/day_93/day_93.gif)
+
+**Day 94:** *(Streak: 94 - 5/4/2020)*
+* GDScript (Godot Engine v3.2.3.stable.official)
+* [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/251289d269f207c741774811170f0e77023acbaf)
+* I made it so the turret shoot animation starts on the turn before the tuuret shoot step
+* I also fixed a bunch of bugs that came along with it although I feel like some of them might have already been there and I just hadn't noticed
