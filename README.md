@@ -681,3 +681,8 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/a242db87bdd7c869f7d10aa2371fd50abe6eed72)
 * I'm refactoring the way the game handles steps
 * It's still far from being finished
+
+**Day 96:** *(Streak: 96 - 7/4/2020)*
+* GDScript (Godot Engine v3.2.3.stable.official)
+* [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/5ac02df1d4ced47284d5d76d9db50e54cd4eb0e9)
+* I'm still refactoring but I think I'll be done tomorrow
