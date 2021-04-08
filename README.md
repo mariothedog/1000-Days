@@ -686,3 +686,10 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * GDScript (Godot Engine v3.2.3.stable.official)
 * [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/5ac02df1d4ced47284d5d76d9db50e54cd4eb0e9)
 * I'm still refactoring but I think I'll be done tomorrow
+
+**Day 97:** *(Streak: 97 - 8/4/2020)*
+* GDScript (Godot Engine v3.2.3.stable.official)
+* [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/958ca5775ec3eab02cbd2bbe8123c8a981258aab)
+* Finished the refactoring
+* Fixed the speed up button by making it so the bullet uses a raycast instead (points from the start pos to the current pos)
+* It still breaks when the min step delay is too short (<= 6 ms in my testing) but I don't think it's anything to worry about
