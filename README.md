@@ -693,3 +693,10 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * Finished the refactoring
 * Fixed the speed up button by making it so the bullet uses a raycast instead (points from the start pos to the current pos)
 * It still breaks when the min step delay is too short (<= 6 ms in my testing) but I don't think it's anything to worry about
+
+**Day 98:** *(Streak: 98 - 9/4/2020)*
+* GDScript (Godot Engine v3.2.3.stable.official)
+* [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/fb31d375d175eba3dc1615e642194e971c073f96)
+* I made it so enemy steps can merge
+* I haven't merged it with main yet but I think I will tomorrow (I might make some changes)  
+![](Days/day_98/day_98.gif)
