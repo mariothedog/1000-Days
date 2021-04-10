@@ -700,3 +700,11 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * I made it so enemy steps can merge
 * I haven't merged it with main yet but I think I will tomorrow (I might make some changes)  
 ![](Days/day_98/day_98.gif)
+
+**Day 99:** *(Streak: 99 - 10/4/2020)*
+* GDScript (Godot Engine v3.2.3.stable.official)
+* [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/ae178ba126e91c5b3654e51b12386057dd84dbb5)
+* I added a trail of enemy colliders to prevent fast enemies jumping over bullets (sort of like I did with the bullets)
+* The enemy move step used to check if the last enemy had stopped moving before emitting the finished signal. I did it this way as I was under the assumption that the last enemy would always finish moving last but this was not the case. It's possible it could have happened in other situations but I know if the base tile is involved sometimes the last enemy can finish a little bit sooner than the other enemies. I changed it so it waited till every enemy has stopped moving
+* I also made this change with the bullets. I'm not sure if this bug affects them or not but just in case I decided to fix it anyways (+ I think it's more explicit anyways)  
+![](Days/day_99/day_99.gif)
