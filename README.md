@@ -708,3 +708,11 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * The enemy move step used to check if the last enemy had stopped moving before emitting the finished signal. I did it this way as I was under the assumption that the last enemy would always finish moving last but this was not the case. It's possible it could have happened in other situations but I know if the base tile is involved sometimes the last enemy can finish a little bit sooner than the other enemies. I changed it so it waited till every enemy has stopped moving
 * I also made this change with the bullets. I'm not sure if this bug affects them or not but just in case I decided to fix it anyways (+ I think it's more explicit anyways)  
 ![](Days/day_99/day_99.gif)
+
+**Day 100:** *(Streak: 100 - 11/4/2020)* (100th day! 1/10th of the way there!)
+* GDScript (Godot Engine v3.2.3.stable.official)
+* [Simultaneous Turrets](https://github.com/mariothedog/simultaneous-turrets/tree/af194d19aade1d5a6945293fd6fe679c634787d7)
+* I feel like the enemy movement is too fast so I tried making it so enemies move at the same speed. I also made it decellerate when it's reaching the end but it feels a bit weird at the moment (it becomes really slow so it takes ages to reach the last tile). It's all very experimental at the moment though (https://github.com/mariothedog/simultaneous-turrets/tree/baa85f60041d3ab442470318f76bee0769e414f5)
+* I made another experimental branch where I removed step merging as it feels a bit strange how enemies can go from moving 1 tile at a time to moving 2 tiles at a time despite moving at the same speed relative to everything else (https://github.com/mariothedog/simultaneous-turrets/tree/a8d9712b947412b06cfdea15f3d68f27387cde2e)
+* I think I mentioned this before but I feel like the game is deviating way too much from the jam version and I don't like that. One thing that stands out to me is that I don't like how things are very "continuous". For example, bullets just stop moving which seems a bit strange.  
+![](Days/day_100/day_100.gif)
