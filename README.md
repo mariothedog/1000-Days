@@ -667,7 +667,8 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * Enemy turns are now skipped if there are no enemy paths
 * I added the "step delay padding" I talked about yesterday. Each turn lasts a minimum of 0.5 seconds now
 * I added a speed up button but it's still quite buggy. Sometimes it causes bullets to phase through enemies
-* I added level 3 but I feel like it's quite boring. I might make some changes to it later on  
+* I added level 3 but I feel like it's quite boring. I might make some changes to it later on
+* Devlog: https://mariothedog.itch.io/simultaneous-turrets/devlog/239081/level-balancing-and-shooting-animations  
 ![](Days/day_93/day_93.gif)
 
 **Day 94:** *(Streak: 94 - 5/4/2020)*
