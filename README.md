@@ -719,3 +719,8 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * I think I mentioned this before but I feel like the game is deviating way too much from the jam version and I don't like that. One thing that stands out to me is that I don't like how things are very "continuous". For example, bullets just stop moving which seems a bit strange.
 * Devlog: https://mariothedog.itch.io/simultaneous-turrets/devlog/241643/faster-gameplay-merging-enemy-steps-and-deviating-from-the-jam-version  
 ![](Days/day_100/day_100.gif)
+
+**Day 101:** *(Streak: 101 - 12/4/2020)*
+* Python
+* I didn't have much time today so all I did was a Codewars Kata
+* [Codewars 6 Kyu Kata - Sum of Digits/Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00)
