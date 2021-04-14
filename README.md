@@ -724,3 +724,10 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * Python
 * I didn't have much time today so all I did was a Codewars Kata
 * [Codewars 6 Kyu Kata - Sum of Digits/Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00)
+
+**Day 102:** *(Streak: 102 - 13/4/2020)*
+* Python
+* I had more free time than yesterday so me not working on Simultaneous Turrets today was completely my fault (I was procrastinating)
+* [Codewars 6 Kyu Kata - Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836)
+* [Codewars 6 Kyu Kata - Persistent Bugger](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec)
+* [Codewars 5 Kyu Kata - Diophantine Equation](https://www.codewars.com/kata/554f76dca89983cc400000bb) (Not completed yet, not efficient enough)
