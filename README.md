@@ -731,3 +731,24 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * [Codewars 6 Kyu Kata - Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836)
 * [Codewars 6 Kyu Kata - Persistent Bugger](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec)
 * [Codewars 5 Kyu Kata - Diophantine Equation](https://www.codewars.com/kata/554f76dca89983cc400000bb) (Not completed yet, not efficient enough)
+
+**Day 103:** *(Streak: 103 - 14/4/2020)*
+* Simultaneous Turrets Game Design
+* I didn't actually write or create anything but I was looking for advice on the Godot Discord server and it seems like some RTS games are actually turn-based but the turns are really fast so you can't notice it (I'll probably try this out)
+
+**Day 104:** *(Streak: 104 - 15/4/2020)*
+* Python
+* [Codewars 6 Kyu Kata - Count the smiley faces!](https://www.codewars.com/kata/reviews/588d0231aac675bf56001ac2/groups/6078fd0e124b500001bff78b)
+
+**Day 105:** *(Streak: 105 - 16/4/2020)*
+* Python
+* [Codewars 5 Kyu Kata - String incrementer](https://www.codewars.com/kata/reviews/554cef99085cd8c9720000d9/groups/607a0df4b42a890001dcb66a)
+
+**Day 106:** *(Streak: 106 - 17/4/2020)*
+* Python
+* [Codewars 5 Kyu Kata - Valid Parentheses](https://www.codewars.com/kata/reviews/557730efe9be66fc1b00011b/groups/607a8679ae8fcb0001883adc)
+
+**Day 107:** *(Streak: 107 - 18/4/2020)*
+* Python
+* [Codewars 5 Kyu Kata - The Hashtag Generator](https://www.codewars.com/kata/52449b062fb80683ec000024)
+* [Codewars 5 Kyu Kata - The Hashtag Generator](https://www.codewars.com/kata/52449b062fb80683ec000024) (Second solution)
