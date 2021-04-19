@@ -752,3 +752,8 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * Python
 * [Codewars 5 Kyu Kata - The Hashtag Generator](https://www.codewars.com/kata/52449b062fb80683ec000024)
 * [Codewars 5 Kyu Kata - The Hashtag Generator](https://www.codewars.com/kata/52449b062fb80683ec000024) (Second solution)
+
+**Day 108:** *(Streak: 108 - 19/4/2020)* (Happy birthday to me)
+* Python
+* [Codewars 5 Kyu Kata - Did I Finish my Sudoku?](https://www.codewars.com/kata/53db96041f1a7d32dc0004d2)
+* [Codewars 6 Kyu Kata - Build Tower](https://www.codewars.com/kata/576757b1df89ecf5bd00073b)
