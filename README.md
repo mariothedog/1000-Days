@@ -757,3 +757,7 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * Python
 * [Codewars 5 Kyu Kata - Did I Finish my Sudoku?](https://www.codewars.com/kata/53db96041f1a7d32dc0004d2)
 * [Codewars 6 Kyu Kata - Build Tower](https://www.codewars.com/kata/576757b1df89ecf5bd00073b)
+
+**Day 109:** *(Streak: 109 - 20/4/2020)*
+* Python
+* [Codewars 5 Kyu Kata - Don't Drink the Water](https://www.codewars.com/kata/562e6df5cf2d3908ad00019e)
