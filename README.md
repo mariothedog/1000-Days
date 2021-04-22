@@ -765,3 +765,7 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 **Day 110:** *(Streak: 110 - 21/4/2020)*
 * Python
 * [Codewars 6 Kyu Kata - Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001)
+
+**Day 111:** *(Streak: 111 - 22/4/2020)*
+* Python
+* [Codewars 6 Kyu Kata - Positions Average](https://www.codewars.com/kata/59f4a0acbee84576800000af)
