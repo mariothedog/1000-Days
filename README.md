@@ -769,3 +769,7 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 **Day 111:** *(Streak: 111 - 22/4/2020)*
 * Python
 * [Codewars 6 Kyu Kata - Positions Average](https://www.codewars.com/kata/59f4a0acbee84576800000af)
+
+**Day 112:** *(Streak: 112 - 23/4/2020)*
+* Python
+* [Codewars 6 Kyu Kata - Binaries](https://www.codewars.com/kata/5d98b6b38b0f6c001a461198)
