@@ -773,3 +773,9 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 **Day 112:** *(Streak: 112 - 23/4/2020)*
 * Python
 * [Codewars 6 Kyu Kata - Binaries](https://www.codewars.com/kata/5d98b6b38b0f6c001a461198)
+
+**Day 113:** *(Streak: 113 - 24/4/2020)*
+* Python
+* [Codewars 5 Kyu Kata - Graph-like Sequence](https://www.codewars.com/kata/60815326bbb0150009f55f7e) (Forfeited)
+* [Codewars 5 Kyu Kata - Buddy Pairs](https://www.codewars.com/kata/59ccf051dcc4050f7800008f) (Forfeited)
+* [Codewars 5 Kyu Kata - Don't Eat the Last Cake!](https://www.codewars.com/kata/5384df88aa6fc164bb000e7d) (Still working on it)
