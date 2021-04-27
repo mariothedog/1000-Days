@@ -787,3 +787,7 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 **Day 115:** *(Streak: 115 - 26/4/2020)*
 * Python
 * [Codewars 5 Kyu Kata - Don't Eat the Last Cake!](https://www.codewars.com/kata/5384df88aa6fc164bb000e7d) (Still working on it)
+
+**Day 116:** *(Streak: 116 - 27/4/2020)*
+* Python
+* [Codewars 5 Kyu Kata - Don't Eat the Last Cake!](https://www.codewars.com/kata/5384df88aa6fc164bb000e7d) (Still working on it)
