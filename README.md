@@ -791,3 +791,10 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 **Day 116:** *(Streak: 116 - 27/4/2020)*
 * Python
 * [Codewars 5 Kyu Kata - Don't Eat the Last Cake!](https://www.codewars.com/kata/5384df88aa6fc164bb000e7d) (Still working on it)
+
+**Day 117:** *(Streak: 117 - 28/4/2020)*
+* Python
+* I can't believe this kata took me 5 days
+* The solution was so simple
+* [Codewars 5 Kyu Kata - Don't Eat the Last Cake!](https://www.codewars.com/kata/5384df88aa6fc164bb000e7d) (Finally done it!!!)
+* [Solution](https://www.codewars.com/kata/reviews/53d7bb3b093f99f301000a6b/groups/6089e209feafc5000127ef63)
