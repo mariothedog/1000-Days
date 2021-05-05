@@ -807,3 +807,26 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 **Day 119:** *(Streak: 119 - 30/4/2020)*
 * Python
 * [Codewars 4 Kyu Kata - Balanced parentheses string](https://www.codewars.com/kata/60790e04cc9178003077db43) (Still working on it)
+
+**Day 120:** *(Streak: 120 - 1/5/2020)*
+* Python
+* [Codewars 4 Kyu Kata - Balanced parentheses string](https://www.codewars.com/kata/60790e04cc9178003077db43) (Still working on it)
+
+**Day 121:** *(Streak: 121 - 2/5/2020)*
+* ASL (Livesplit's Auto Splitting Language)
+* I have been speedrunning the game [Die in the Dungeon](https://alarts.itch.io/die-in-the-dungeon) recently so I made an autosplitter for it. (Die in the Dungeon was actually initially made as an entry to the same jam that Simultaneous Turrets was made for... I should probably get back to working on that)
+* [Source](https://gist.github.com/mariothedog/dfee8307bedb7316b033b0c0f06dbe0b)
+
+**Day 122:** *(Streak: 122 - 3/5/2020)*
+* Python
+* [Codewars 6 Kyu Kata - Valid string](https://www.codewars.com/kata/52f3bb2095d6bfeac2002196) (Still working on it)
+
+**Day 123:** *(Streak: 123 - 4/5/2020)*
+* Python
+* [Codewars 6 Kyu Kata - Make the Deadfish Swim](https://www.codewars.com/kata/51e0007c1f9378fa810002a9)
+* [Solution](https://www.codewars.com/kata/reviews/5b4078215d287e9d6f0001c5/groups/6091d39fd8c2fe0001ed33ec)
+
+**Day 124:** *(Streak: 124 - 5/5/2020)*
+* Python
+* For a 6 kyu kata this was actually really challenging. Perhaps my solution wasn't the intended one
+* [Codewars 6 Kyu Kata - Valid string](https://www.codewars.com/kata/52f3bb2095d6bfeac2002196) (Got it!)
