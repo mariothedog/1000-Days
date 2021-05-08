@@ -830,3 +830,15 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * Python
 * For a 6 kyu kata this was actually really challenging. Perhaps my solution wasn't the intended one
 * [Codewars 6 Kyu Kata - Valid string](https://www.codewars.com/kata/52f3bb2095d6bfeac2002196) (Got it!)
+
+**Day 125:** *(Streak: 125 - 6/5/2020)*
+* Python
+* [Codewars 6 Kyu Kata - Swap Case Using N](https://www.codewars.com/kata/5f3afc40b24f090028233490)
+
+**Day 126:** *(Streak: 126 - 6/6/2020)*
+* Python
+* [Codewars 6 Kyu Kata - Count characters in your string](https://www.codewars.com/kata/52efefcbcdf57161d4000091)
+
+**Day 127:** *(Streak: 127 - 6/7/2020)*
+* Python
+* [Codewars 6 Kyu Kata - Linear Color Gradient](https://www.codewars.com/kata/607218fd3d84d3003685d78c) (Still working on it)
