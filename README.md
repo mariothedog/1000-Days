@@ -842,3 +842,31 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 **Day 127:** *(Streak: 127 - 8/7/2020)*
 * Python
 * [Codewars 6 Kyu Kata - Linear Color Gradient](https://www.codewars.com/kata/607218fd3d84d3003685d78c) (Still working on it)
+
+**Day 128:** *(Streak: 128 - 9/7/2020)*
+* Python
+* [Codewars 6 Kyu Kata - Linear Color Gradient](https://www.codewars.com/kata/607218fd3d84d3003685d78c) (Still working on it)
+
+**Day 129:** *(Streak: 129 - 10/7/2020)*
+* Python
+* [Codewars 6 Kyu Kata - Linear Color Gradient](https://www.codewars.com/kata/607218fd3d84d3003685d78c) (Still working on it)
+
+**Day 130:** *(Streak: 130 - 11/7/2020)*
+* Python
+* [Codewars 6 Kyu Kata - Linear Color Gradient](https://www.codewars.com/kata/607218fd3d84d3003685d78c) (Still working on it)
+
+**Day 131:** *(Streak: 131 - 12/7/2020)*
+* Python
+* [Codewars 6 Kyu Kata - Linear Color Gradient](https://www.codewars.com/kata/607218fd3d84d3003685d78c) (Still working on it)
+
+**Day 132:** *(Streak: 132 - 13/7/2020)*
+* Python
+* This took a while. I feel like my solution is really inefficient but it works! This is definitely way harder than 6 kyu
+* [Codewars 6 Kyu Kata - Linear Color Gradient](https://www.codewars.com/kata/607218fd3d84d3003685d78c) (Got it!!)
+* [Solution](https://www.codewars.com/kata/reviews/6094236ae7e0df00011ffa9d/groups/609dbc51533c8d0001f40b68)
+
+**Day 133:** *(Streak: 133 - 14/7/2020)*
+* Python
+* This was quite confusing at first but I got it after 20 or so minutes and I discovered the amazing Python module that is fractions
+* [Codewars 6 Kyu Kata - Magic Dice: Who wins?](https://www.codewars.com/kata/589e2af835999cbe2f000229)
+* [Solution](https://www.codewars.com/kata/reviews/589e3345872424388000000b/groups/609f072a38b2960001899778)
