@@ -870,3 +870,8 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * This was quite confusing at first but I got it after 20 or so minutes and I discovered the amazing Python module that is fractions
 * [Codewars 6 Kyu Kata - Magic Dice: Who wins?](https://www.codewars.com/kata/589e2af835999cbe2f000229)
 * [Solution](https://www.codewars.com/kata/reviews/589e3345872424388000000b/groups/609f072a38b2960001899778)
+
+**Day 134:** *(Streak: 134 - 15/7/2020)*
+* Python
+* [Codewars 6 Kyu Kata - Reverse or rotate?](https://www.codewars.com/kata/56b5afb4ed1f6d5fb0000991)
+* [Solution](https://www.codewars.com/kata/reviews/56b5b0d283df36dc5b00007f/groups/60a05cf83b461d00015b2379)
