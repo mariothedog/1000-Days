@@ -875,3 +875,8 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * Python
 * [Codewars 6 Kyu Kata - Reverse or rotate?](https://www.codewars.com/kata/56b5afb4ed1f6d5fb0000991)
 * [Solution](https://www.codewars.com/kata/reviews/56b5b0d283df36dc5b00007f/groups/60a05cf83b461d00015b2379)
+
+**Day 135:** *(Streak: 135 - 16/7/2020)*
+* Python
+* [Codewars 6 Kyu Kata - Word to initial number](https://www.codewars.com/kata/5bb148b840196d1be50000b1)
+* [Solution](https://www.codewars.com/kata/reviews/60a0f34b9c9ebc0001cffaa0/groups/60a19d52ef567a00012bb6a6)
