@@ -880,3 +880,9 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * Python
 * [Codewars 6 Kyu Kata - Word to initial number](https://www.codewars.com/kata/5bb148b840196d1be50000b1)
 * [Solution](https://www.codewars.com/kata/reviews/60a0f34b9c9ebc0001cffaa0/groups/60a19d52ef567a00012bb6a6)
+
+**Day 136:** *(Streak: 136 - 17/7/2020)*
+* Python
+* [Codewars 6 Kyu Kata - Bit Counting](https://www.codewars.com/kata/5bb148b840196d1be50000b1)
+* [Codewars 6 Kyu Kata - Triangle Type](https://www.codewars.com/kata/53907ac3cd51b69f790006c5)
+* [Solution](https://www.codewars.com/kata/reviews/53d77dca093f99c1c8000580/groups/60a2f7e31157a10001309312)
