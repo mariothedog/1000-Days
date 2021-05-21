@@ -886,3 +886,20 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * [Codewars 6 Kyu Kata - Bit Counting](https://www.codewars.com/kata/5bb148b840196d1be50000b1)
 * [Codewars 6 Kyu Kata - Triangle Type](https://www.codewars.com/kata/53907ac3cd51b69f790006c5)
 * [Solution](https://www.codewars.com/kata/reviews/53d77dca093f99c1c8000580/groups/60a2f7e31157a10001309312)
+
+**Day 137:** *(Streak: 137 - 18/7/2020)*
+* Python
+* [Codewars 6 Kyu Kata - Digit Recovery](https://www.codewars.com/kata/5964d7e633b908e172000046) (Still working on it)
+
+**Day 138:** *(Streak: 138 - 19/7/2020)*
+* AutoHotkey Script
+* I was working on a script to read text from a file and then copy and paste that file into something else 2000 characters at a time
+
+**Day 139:** *(Streak: 139 - 20/7/2020)*
+* AutoHotkey Script
+* Finished that script I started yesterday
+
+**Day 140:** *(Streak: 140 - 21/7/2020)*
+* Python
+* [Codewars 6 Kyu Kata - Digit Recovery](https://www.codewars.com/kata/5964d7e633b908e172000046)
+* [Solution](https://www.codewars.com/kata/reviews/6037a0b9203cb60001df5690/groups/60a8420b8c9da500013a7a76)
