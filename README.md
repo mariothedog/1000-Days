@@ -903,3 +903,8 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * Python
 * [Codewars 6 Kyu Kata - Digit Recovery](https://www.codewars.com/kata/5964d7e633b908e172000046)
 * [Solution](https://www.codewars.com/kata/reviews/6037a0b9203cb60001df5690/groups/60a8420b8c9da500013a7a76)
+
+**Day 141:** *(Streak: 141 - 22/7/2020)*
+* Python
+* [Codewars 6 Kyu Kata - Rainfall](https://www.codewars.com/kata/56a32dd6e4f4748cc3000006)
+* [Solution](https://www.codewars.com/kata/reviews/56a32f2b1cf4a85c7700002a/groups/60a98f1e4e08a0000104b615)
