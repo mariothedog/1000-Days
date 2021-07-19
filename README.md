@@ -1164,13 +1164,13 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 * [Codewars 6 Kyu Kata - Delta Generators](https://www.codewars.com/kata/6040b781e50db7000ab35125)
 * [Solution](https://www.codewars.com/kata/reviews/6040eef8406f680001a7f80e/groups/60e8db768d00e00001af1312)
 
-**Day 190:** *(Streak: 190 - 10/7/2021)*
-**Day 191:** *(Streak: 191 - 11/7/2021)*
-**Day 192:** *(Streak: 192 - 12/7/2021)*
-**Day 193:** *(Streak: 193 - 13/7/2021)*
-**Day 194:** *(Streak: 194 - 14/7/2021)*
-**Day 195:** *(Streak: 195 - 15/7/2021)*
-**Day 196:** *(Streak: 196 - 16/7/2021)*
+**Day 190:** *(Streak: 190 - 10/7/2021)*  
+**Day 191:** *(Streak: 191 - 11/7/2021)*  
+**Day 192:** *(Streak: 192 - 12/7/2021)*  
+**Day 193:** *(Streak: 193 - 13/7/2021)*  
+**Day 194:** *(Streak: 194 - 14/7/2021)*  
+**Day 195:** *(Streak: 195 - 15/7/2021)*  
+**Day 196:** *(Streak: 196 - 16/7/2021)*  
 **Day 197:** *(Streak: 197 - 17/7/2021)*
 - Python
 - Python Discord 2021 Summer Code Jam
