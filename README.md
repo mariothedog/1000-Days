@@ -912,7 +912,7 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 **Day 142:** *(Streak: 142 - 23/5/2021)*
 * Godot Mono (C#)
 * I worked on an old game jam entry (that was done as part of a team with Lospec) called Heroes' Guild
-* [Heroes' Guild](https://github.com/lospec/lowresjam2020/tree/bug-fixes)
+* [Heroes' Guild](https://github.com/lospec/lowresjam2020/tree/bug-fixes)  
 ===
 * It's currently 19/7/2021 but for the last 57 days I've been too lazy to update this
 * Somehow I was able to actually complete the days but apparently copying and pasting 3 lines a day is too much for my brain to handle
@@ -1034,7 +1034,7 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 **Day 168:** *(Streak: 168 - 18/6/2021)*
 * JavaScript
 * I made a TamperMonkey script to hide the YouTube notifications button because I found it distracting
-* It is really really bad though and didn't work the majority of the time
+* It is really really bad though and didn't work the majority of the time  
 ===
 * Godot Mono (C#)
 * [Heroes' Guild](https://github.com/lospec/lowresjam2020/tree/bug-fixes)
@@ -1045,7 +1045,7 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 
 **Day 170:** *(Streak: 170 - 20/6/2021)*
 * Godot Mono (C#)
-* [Heroes' Guild](https://github.com/lospec/lowresjam2020/tree/bug-fixes)
+* [Heroes' Guild](https://github.com/lospec/lowresjam2020/tree/bug-fixes)  
 ===
 * Python
 * [Codewars 6 Kyu Kata - Back and forth then Reverse! (Python)](https://www.codewars.com/kata/60cc93db4ab0ae0026761232)
@@ -1053,11 +1053,11 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 
 **Day 171:** *(Streak: 171 - 21/6/2021)*
 * Godot Mono (C#)
-* [Heroes' Guild](https://github.com/lospec/lowresjam2020/tree/bug-fixes)
+* [Heroes' Guild](https://github.com/lospec/lowresjam2020/tree/bug-fixes)  
 ===
 * Python
 * [Codewars 6 Kyu Kata - Step in Primes (Python)](https://www.codewars.com/kata/5613d06cee1e7da6d5000055)
-* [Solution](https://www.codewars.com/kata/reviews/5613d15967e80127d6000031/groups/60d0eeabcea1f00001c84bf6)
+* [Solution](https://www.codewars.com/kata/reviews/5613d15967e80127d6000031/groups/60d0eeabcea1f00001c84bf6)  
 ===
 * Python
 * Python Discord 2021 Summer Code Jam Qualifier
@@ -1072,14 +1072,14 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 
 **Day 174:** *(Streak: 174 - 24/6/2021)*
 * Godot Mono (C#)
-* [Heroes' Guild](https://github.com/lospec/lowresjam2020/tree/bug-fixes)
+* [Heroes' Guild](https://github.com/lospec/lowresjam2020/tree/bug-fixes)  
 ===
 * Python
 * [Codewars 6 Kyu Kata - Easy Balance Checking](https://www.codewars.com/kata/59d727d40e8c9dd2dd00009f)
 * [Solution](https://www.codewars.com/kata/reviews/5aaf66a09a4bdd79d10002e8/groups/60d4af310f0cac00011648c1)
 
 **Day 175:** *(Streak: 175 - 25/6/2021)*
-* Design doc planning for [a game jam titled "a jam about time"](https://itch.io/jam/a-jam-about-time)
+* Design doc planning for [a game jam titled "a jam about time"](https://itch.io/jam/a-jam-about-time)  
 ===
 * Python
 * [Codewars 6 Kyu Kata - Financing a purchase](https://www.codewars.com/kata/59c68ea2aeb2843e18000109)
@@ -1088,7 +1088,7 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 **Day 176:** *(Streak: 176 - 26/6/2021)*
 * Godot
 * Working on my entry for [a jam about time](https://itch.io/jam/a-jam-about-time)
-* [Source](https://github.com/mariothedog/a-jam-about-time)
+* [Source](https://github.com/mariothedog/a-jam-about-time)  
 ===
 * Python
 * [Codewars 6 Kyu Kata - Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da)
@@ -1096,7 +1096,7 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 **Day 177:** *(Streak: 177 - 27/6/2021)*
 * Python
 * [Codewars 6 Kyu Kata - Sort the number sequence](https://www.codewars.com/kata/5816b76988ca9613cc00024f)
-* [Solution](https://www.codewars.com/kata/reviews/60d79e8c8754770001e7d319/groups/60d85b5020efb700010cf2da)
+* [Solution](https://www.codewars.com/kata/reviews/60d79e8c8754770001e7d319/groups/60d85b5020efb700010cf2da)  
 ===
 * Godot
 * Working on my entry for [a jam about time](https://itch.io/jam/a-jam-about-time)
@@ -1148,7 +1148,7 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 **Day 187:** *(Streak: 187 - 7/7/2021)*
 * Python
 * [Codewars 7 Kyu Kata - Sort arrays - 1](https://www.codewars.com/kata/51f41b98e8f176e70d0002a8)
-* [Solution](https://www.codewars.com/kata/reviews/60926e96b2c8070001711d95/groups/60926e96b2c8070001711d99)
+* [Solution](https://www.codewars.com/kata/reviews/60926e96b2c8070001711d95/groups/60926e96b2c8070001711d99)  
 ===
 * Python
 * [Codewars 7 Kyu Kata - Number of Rectangles in a Grid](https://www.codewars.com/kata/556cebcf7c58da564a000045)
@@ -1183,10 +1183,10 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 **Day 199:** *(Streak: 199 - 19/7/2021)*
 - Python
 - Python Discord 2021 Summer Code Jam
-- [Source](https://github.com/aiyayayaya/canny-capybaras-collab-code-contest)
+- [Source](https://github.com/aiyayayaya/canny-capybaras-collab-code-contest)  
 ===
 - [Lospec Game Jam 1](https://itch.io/jam/lospec-jam-1)
-- [Source](https://github.com/mariothedog/lospec-jam-1)
+- [Source](https://github.com/mariothedog/lospec-jam-1)  
 ===
 - Wow, I finally just finished updating in all the days I missed (days 142 to today)
 - Funny coincidence that I'm updating this right before day 200
@@ -1195,6 +1195,6 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 **Day 200:** *(Streak: 200 - 29/7/2021)*
 - Python
 - Python Discord 2021 Summer Code Jam
-- [Source](https://github.com/aiyayayaya/canny-capybaras-collab-code-contest)
+- [Source](https://github.com/aiyayayaya/canny-capybaras-collab-code-contest)  
 ===
 - Woohoo day 200!
