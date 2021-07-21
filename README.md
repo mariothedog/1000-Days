@@ -1192,7 +1192,7 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 - Funny coincidence that I'm updating this right before day 200
 - And it *has* been 200 days since the start of 2021
 
-**Day 200:** *(Streak: 200 - 29/7/2021)*
+**Day 200:** *(Streak: 200 - 20/7/2021)*
 - Python
 - Python Discord 2021 Summer Code Jam
 - [Source](https://github.com/aiyayayaya/canny-capybaras-collab-code-contest)  
