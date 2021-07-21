@@ -1185,6 +1185,7 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 - Python Discord 2021 Summer Code Jam
 - [Source](https://github.com/aiyayayaya/canny-capybaras-collab-code-contest)  
 ===
+- Godot
 - [Lospec Game Jam 1](https://itch.io/jam/lospec-jam-1)
 - [Source](https://github.com/mariothedog/lospec-jam-1)  
 ===
