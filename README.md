@@ -1204,3 +1204,8 @@ The rules are much more relaxed compared to the [original's](https://www.reddit.
 - Godot
 - [Lospec Game Jam 1](https://itch.io/jam/lospec-jam-1)
 - [Source](https://github.com/mariothedog/lospec-jam-1) 
+
+**Day 202:** *(Streak: 202 - 22/7/2021)*
+- Godot
+- [Lospec Game Jam 1](https://itch.io/jam/lospec-jam-1)
+- [Source](https://github.com/mariothedog/lospec-jam-1) 
